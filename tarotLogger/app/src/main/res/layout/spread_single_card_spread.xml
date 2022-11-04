@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scaleType="centerCrop"
+    android:background="#162633"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/journal"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/journal" />
+
+    <EditText
+        android:id="@+id/editJournalEntry"
+        android:layout_width="354dp"
+        android:layout_height="412dp"
+        android:adjustViewBounds="true"
+        android:background="@drawable/image_icon_border"
+        android:cropToPadding="true"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="editJournalEntry"
+        android:inputType="textPersonName"
+        android:scaleType="fitCenter"
+        android:textColor="#FFE178"
+        app:layout_constraintBottom_toTopOf="@+id/spreadName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/displayDate"
+        app:layout_constraintVertical_bias="0.223" />
+
+    <ImageView
+        android:id="@+id/card1"
+        android:layout_width="133dp"
+        android:layout_height="228dp"
+        android:adjustViewBounds="true"
+        android:background="@drawable/image_icon_border"
+        android:cropToPadding="true"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editDateY"
+        app:layout_constraintVertical_bias="0.203"
+        app:srcCompat="@drawable/back" />
+
+    <NumberPicker
+        android:theme="@style/AppTheme.Picker"
+        android:id="@+id/editDateY"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:ems="10"
+        android:textColor="#FFE178"
+        app:layout_constraintEnd_toStartOf="@+id/editDateM"
+        app:layout_constraintTop_toTopOf="@+id/editDateM" />
+
+    <NumberPicker
+        android:theme="@style/AppTheme.Picker"
+        android:id="@+id/editDateM"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/image_icon_border"
+        android:ems="10"
+        android:textColor="#FFE178"
+        app:layout_constraintEnd_toEndOf="@+id/editQuestion"
+        app:layout_constraintStart_toStartOf="@+id/editQuestion"
+        app:layout_constraintTop_toBottomOf="@+id/editQuestion" />
+
+    <NumberPicker
+        android:theme="@style/AppTheme.Picker"
+        android:id="@+id/editDateD"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:background="@drawable/image_icon_border"
+        android:ems="10"
+        android:textColor="#FFE178"
+        app:layout_constraintStart_toEndOf="@+id/editDateM"
+        app:layout_constraintTop_toTopOf="@+id/editDateM" />
+
+    <EditText
+        android:id="@+id/editQuestion"
+        android:layout_width="375dp"
+        android:layout_height="55dp"
+        android:ems="10"
+        android:hint="question"
+        android:inputType="textPersonName"
+        android:textColor="#FFE178"
+        android:background="@drawable/image_icon_border"
+        android:adjustViewBounds="true"
+        android:cropToPadding="true"
+        android:gravity="center_vertical"
+        android:scaleType="fitCenter"
+        android:textAlignment="center"
+        app:layout_constraintStart_toStartOf="@+id/displayQuestion"
+        app:layout_constraintTop_toTopOf="@+id/displayQuestion"
+        tools:ignore="RtlCompat" />
+
+    <TextView
+        android:id="@+id/displayDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:adjustViewBounds="true"
+        android:background="@drawable/image_icon_border"
+        android:cropToPadding="true"
+        android:ems="10"
+        android:gravity="center_horizontal"
+        android:scaleType="centerCrop"
+        android:textAlignment="center"
+        android:textColor="#FFE178"
+        app:layout_constraintEnd_toEndOf="@+id/editQuestion"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="@+id/editQuestion"
+        app:layout_constraintTop_toBottomOf="@+id/editQuestion" />
+
+    <TextView
+        android:id="@+id/displayQuestion"
+        android:layout_width="375dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:ems="10"
+        android:background="@drawable/image_icon_border"
+        android:adjustViewBounds="true"
+        android:cropToPadding="true"
+        android:gravity="center_vertical"
+        android:textAlignment="center"
+        android:textColor="#FFE178"
+        android:textStyle="bold"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="RtlCompat" />
+
+    <TextView
+        android:id="@+id/spreadName"
+        android:layout_width="200dp"
+        android:layout_height="48dp"
+        android:textColor="#FFE178"
+        android:textStyle="bold"
+        android:background="@drawable/image_icon_border"
+        android:adjustViewBounds="true"
+        android:cropToPadding="false"
+        android:gravity="center_vertical"
+        android:scaleType="fitCenter"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="@+id/journal"
+        app:layout_constraintEnd_toStartOf="@+id/save"
+        app:layout_constraintStart_toEndOf="@+id/journal"
+        app:layout_constraintTop_toTopOf="@+id/journal"
+        app:layout_constraintVertical_bias="0.5"
+        tools:ignore="RtlCompat" />
+
+    <ImageView
+        android:id="@+id/save"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
+        android:textColor="#FFE178"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/save" />
+</androidx.constraintlayout.widget.ConstraintLayout>

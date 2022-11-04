@@ -1,0 +1,13 @@
+<resources>
+    <style name="AppTheme.Picker" parent="Theme.AppCompat.Light.NoActionBar" >
+        <item name="android:background">
+            @drawable/number_picker_icon_border
+        </item>
+        <item name="android:textColorPrimary">
+            #FFE178
+        </item>
+        <item name="colorControlNormal">
+            #00000000
+        </item>
+    </style>
+</resources>

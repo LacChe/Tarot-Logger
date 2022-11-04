@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#162633"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/card"
+        android:layout_width="266dp"
+        android:layout_height="435dp"
+        android:adjustViewBounds="true"
+        android:background="@drawable/image_icon_border"
+        android:cropToPadding="true"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.222" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="208dp"
+        android:layout_height="144dp"
+        android:layout_marginBottom="36dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/card"
+        app:layout_constraintVertical_bias="0.62">
+
+        <TextView
+            android:id="@+id/docs"
+            android:layout_width="128dp"
+            android:layout_height="64dp"
+            android:layout_marginTop="16dp"
+            android:adjustViewBounds="true"
+            android:background="@drawable/large_bar"
+            android:cropToPadding="true"
+            android:gravity="center_vertical"
+            android:scaleType="fitCenter"
+            android:textAlignment="center"
+            android:textColor="#FFE178"
+            app:layout_constraintStart_toStartOf="@+id/newSpread"
+            app:layout_constraintTop_toBottomOf="@+id/newSpread"
+            tools:ignore="RtlCompat" />
+
+        <TextView
+            android:id="@+id/oldSpread"
+            android:layout_width="128dp"
+            android:layout_height="64dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:adjustViewBounds="true"
+            android:background="@drawable/large_bar"
+            android:cropToPadding="true"
+            android:gravity="center_vertical"
+            android:scaleType="fitCenter"
+            android:textAlignment="center"
+            android:textColor="#FFE178"
+            app:layout_constraintStart_toEndOf="@+id/newSpread"
+            app:layout_constraintTop_toTopOf="@+id/newSpread"
+            tools:ignore="RtlCompat" />
+
+        <ImageView
+            android:id="@+id/settings"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            app:layout_constraintStart_toEndOf="@+id/docs"
+            app:layout_constraintTop_toBottomOf="@+id/oldSpread"
+            app:srcCompat="@drawable/settings" />
+
+        <ImageView
+            android:id="@+id/newSpread"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/add_new" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

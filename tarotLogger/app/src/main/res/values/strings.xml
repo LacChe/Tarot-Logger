@@ -1,0 +1,3045 @@
+<resources>
+    <string name="app_name">Tarot Logger</string>
+
+    <string-array name="en_main_page_icons">
+        <item>My Readings</item>
+        <item>Resources</item>
+    </string-array>
+
+    <string-array name="en_about">
+        <item>This app is for keeping track of your readings and keyword frequency.</item>
+    </string-array>
+
+    <string-array name="en_resource_page_icons">
+        <item>Cards</item>
+        <item>Spreads</item>
+        <item>Other 1</item>
+        <item>Other 2</item>
+    </string-array>
+
+    <string-array name="en_settings_page_icons">
+        <item>Language</item>
+        <item>Clear Data</item>
+    </string-array>
+
+    <string-array name="en_spread_selection_titles">
+        <item>Choose a Spread</item>
+        <item>Readings</item>
+        <item>What it Means</item>
+    </string-array>
+
+    <string-array name="en_hints">
+        <item>What is Your Question</item>
+        <item>What are Your Thoughts</item>
+        <item>New Meaning</item>
+    </string-array>
+
+    <string-array name="en_default_spread_names">
+        <item>Single Card</item>
+        <item>Two Card Spread</item>
+        <item>Three Card Spread</item>
+        <item>Four Card Spread</item>
+        <item>Four Card Grid</item>
+        <item>Four Directions</item>
+        <item>Five Card Square</item>
+        <item>Pentagram Spread</item>
+        <item>Relationship Spread</item>
+        <item>Directional</item>
+        <item>Simple Yes No</item>
+        <item>Choice Spread</item>
+        <item>Horseshoe</item>
+        <item>Seven Card Horseshoe</item>
+        <item>Chakra Spread</item>
+        <item>Event</item>
+        <item>Timing</item>
+        <item>Celtic Cross</item>
+        <item>World Tree</item>
+        <item>Tree Of Life</item>
+        <item>Resources</item>
+        <item>Overview</item>
+        <item>Manifestation-Causation</item>
+        <item>Solution</item>
+        <item>Astrology</item>
+        <item>Year</item>
+        <item>Fate Pattern</item>
+        <item>Story Spread</item>
+        <item>Three Card Pyramid</item>
+        <item>Six Card Pyramid</item>
+        <item>Tetraktys</item>
+        <item>Romany</item>
+    </string-array>
+
+    <string-array name="en_atu00_default_keywords">
+        <item>A Chance</item>
+        <item>A Childlike Sense Of Wonder</item>
+        <item>Acting Foolish</item>
+        <item>Adventure</item>
+        <item>All-Things</item>
+        <item>Beginning Without End</item>
+        <item>Blind Faith</item>
+        <item>Boldness</item>
+        <item>Bright</item>
+        <item>Carelessness</item>
+        <item>Extremes</item>
+        <item>Fearlessness</item>
+        <item>Feeling Carefree</item>
+        <item>Foolishness</item>
+        <item>Freedom</item>
+        <item>Fresh Start</item>
+        <item>Immeasurable</item>
+        <item>Innocence</item>
+        <item>Innocence</item>
+        <item>Inspiration</item>
+        <item>Life-Power</item>
+        <item>New Beginning</item>
+        <item>New Cycle</item>
+        <item>No-Thing</item>
+        <item>Nothing And Infinite</item>
+        <item>Originality</item>
+        <item>Raw Energy</item>
+        <item>Risk</item>
+        <item>Rootless Root</item>
+        <item>Starting Over</item>
+        <item>Travel</item>
+        <item>Trickster</item>
+        <item>Undifferentiated Power</item>
+        <item>Youth</item>
+    </string-array>
+    <string-array name="en_atu01_default_keywords">
+        <item>Acting Now</item>
+        <item>Action</item>
+        <item>Acute</item>
+        <item>Adaptation</item>
+        <item>Applied Knowledge</item>
+        <item>Astute</item>
+        <item>Central Point</item>
+        <item>Communication</item>
+        <item>Communication</item>
+        <item>Concentration</item>
+        <item>Control</item>
+        <item>Craft</item>
+        <item>Creator</item>
+        <item>Cunning</item>
+        <item>Deceit</item>
+        <item>Divine Guidance</item>
+        <item>Divine Light</item>
+        <item>Dynamic</item>
+        <item>Ego</item>
+        <item>Energy</item>
+        <item>Energy Of Now</item>
+        <item>Focus</item>
+        <item>Healer</item>
+        <item>I</item>
+        <item>Indecision</item>
+        <item>Infinity</item>
+        <item>Innovator</item>
+        <item>Inventor</item>
+        <item>Jack-Of-All-Trades</item>
+        <item>Magic</item>
+        <item>Magic</item>
+        <item>Manifest</item>
+        <item>Mastery</item>
+        <item>Mental</item>
+        <item>Messenger</item>
+        <item>Mind</item>
+        <item>Occultist</item>
+        <item>Orator</item>
+        <item>Outgoing</item>
+        <item>Physician</item>
+        <item>Power</item>
+        <item>Psychic</item>
+        <item>Raw Power</item>
+        <item>Self</item>
+        <item>Self-Consciousness</item>
+        <item>Sharp Mental Energy</item>
+        <item>Skill</item>
+        <item>Speed</item>
+        <item>Success</item>
+        <item>Surgeon</item>
+        <item>Talent</item>
+        <item>Teacher And Student</item>
+        <item>Tools</item>
+        <item>Trickery</item>
+        <item>Willpower</item>
+        <item>Writing</item>
+    </string-array>
+    <string-array name="en_atu02_default_keywords">
+        <item>Ancient Knowledge</item>
+        <item>Answers</item>
+        <item>Antithesis</item>
+        <item>Astral Body</item>
+        <item>Balance</item>
+        <item>Bipolar Disorder </item>
+        <item>Codependency</item>
+        <item>Collective Subconscious</item>
+        <item>Convergence</item>
+        <item>Counselor</item>
+        <item>Cyclical</item>
+        <item>Daughter</item>
+        <item>Developing Psychic Ability</item>
+        <item>Divine Knowledge</item>
+        <item>Divine Law</item>
+        <item>Doctor</item>
+        <item>Dreams</item>
+        <item>Duality</item>
+        <item>Male Female Dichotomy</item>
+        <item>Feminine Wisdom</item>
+        <item>Harmony</item>
+        <item>Healer</item>
+        <item>Hidden Knowledge</item>
+        <item>High Counsel</item>
+        <item>Holder Of Secrets</item>
+        <item>Illusions</item>
+        <item>Initiation</item>
+        <item>Introspection</item>
+        <item>Intuition</item>
+        <item>Knowing</item>
+        <item>Meditation</item>
+        <item>Memories From Before</item>
+        <item>Menstruation</item>
+        <item>Moon And Stars</item>
+        <item>Mother Goddess</item>
+        <item>Mysterious</item>
+        <item>Nurse</item>
+        <item>Opposites</item>
+        <item>Passivity</item>
+        <item>Past Lives</item>
+        <item>Polarity</item>
+        <item>Psychic Ability</item>
+        <item>Receptivity</item>
+        <item>Repetition</item>
+        <item>Secrecy</item>
+        <item>Sensitive</item>
+        <item>Sister</item>
+        <item>Soul Plane</item>
+        <item>Speaking Without Words</item>
+        <item>Spirituality</item>
+        <item>Stillness</item>
+        <item>Subconscious</item>
+        <item>Subordination</item>
+        <item>Subtle Change</item>
+        <item>Sympathetic</item>
+        <item>Telepathy</item>
+        <item>Temples</item>
+        <item>The Dark Side Of The Moon</item>
+        <item>The Inner World</item>
+        <item>The Place Of Knowing</item>
+        <item>The Subconscious</item>
+        <item>Timelessness</item>
+        <item>Universal Child</item>
+        <item>Wisdom And Science</item>
+    </string-array>
+    <string-array name="en_atu03_default_keywords">
+        <item>Abundance</item>
+        <item>Art</item>
+        <item>Babies</item>
+        <item>Beauty</item>
+        <item>Birth</item>
+        <item>Botanist</item>
+        <item>Bountiful</item>
+        <item>Caring</item>
+        <item>Chaos</item>
+        <item>Children</item>
+        <item>Creativity</item>
+        <item>Dance</item>
+        <item>Devotion</item>
+        <item>Domestic</item>
+        <item>Environment</item>
+        <item>Feminine Power</item>
+        <item>Fertility</item>
+        <item>Flowers</item>
+        <item>Garden</item>
+        <item>Gestation</item>
+        <item>Green</item>
+        <item>Growth</item>
+        <item>Harvest</item>
+        <item>Love</item>
+        <item>Luxury</item>
+        <item>Marriage</item>
+        <item>Mother</item>
+        <item>Motherhood</item>
+        <item>Music</item>
+        <item>Natural Growth</item>
+        <item>Nurturing</item>
+        <item>Passion</item>
+        <item>Peace</item>
+        <item>Pleasure</item>
+        <item>Plentiful</item>
+        <item>Pregnancy</item>
+        <item>Receptivity</item>
+        <item>Reuse And Recycle</item>
+        <item>Selfishness</item>
+        <item>Smothering</item>
+        <item>The Home</item>
+        <item>Unconditional Love</item>
+        <item>Warm</item>
+        <item>Wealth From The Land</item>
+    </string-array>
+    <string-array name="en_atu04_default_keywords">
+        <item>Ambition</item>
+        <item>Anger</item>
+        <item>Authority</item>
+        <item>Autonomy</item>
+        <item>Bodyguard</item>
+        <item>Boss</item>
+        <item>Builder</item>
+        <item>Command</item>
+        <item>Control</item>
+        <item>Courage</item>
+        <item>Courageous</item>
+        <item>Dominance</item>
+        <item>Energy</item>
+        <item>Father</item>
+        <item>Fatherhood</item>
+        <item>Force</item>
+        <item>Foundation</item>
+        <item>Government</item>
+        <item>Grandfather</item>
+        <item>Hard Working</item>
+        <item>Headstrong</item>
+        <item>Idealistic</item>
+        <item>Intellectual</item>
+        <item>Justice</item>
+        <item>King</item>
+        <item>Knowledge</item>
+        <item>Leadership</item>
+        <item>Logic</item>
+        <item>Magnetic</item>
+        <item>Male</item>
+        <item>Masculine</item>
+        <item>Mathematician</item>
+        <item>Measurement</item>
+        <item>Methodical</item>
+        <item>Meticulous</item>
+        <item>Muscular System</item>
+        <item>Older Male</item>
+        <item>Order</item>
+        <item>Organisation</item>
+        <item>Ownership</item>
+        <item>Paternal</item>
+        <item>Philosopher</item>
+        <item>Physical Plane</item>
+        <item>Politician</item>
+        <item>Power</item>
+        <item>Powerful</item>
+        <item>Rational Thought</item>
+        <item>Reason</item>
+        <item>Regulation</item>
+        <item>Ruler</item>
+        <item>Sight</item>
+        <item>Solid</item>
+        <item>Square</item>
+        <item>Stable</item>
+        <item>Strong</item>
+        <item>Structure</item>
+        <item>Supervision</item>
+        <item>Systematic</item>
+        <item>Wisdom</item>
+    </string-array>
+    <string-array name="en_atu05_default_keywords">
+        <item>Advice</item>
+        <item>Ancient Knowledge</item>
+        <item>Church</item>
+        <item>Communion</item>
+        <item>Community</item>
+        <item>Conformity</item>
+        <item>Counselor</item>
+        <item>Disciple</item>
+        <item>Doctrine</item>
+        <item>Dogma</item>
+        <item>Doing The “Right” Thing</item>
+        <item>Everyone Else Is Doing It</item>
+        <item>Formality</item>
+        <item>Initiation</item>
+        <item>Learning</item>
+        <item>Loss Of The Individual</item>
+        <item>Mentor</item>
+        <item>Mentoring</item>
+        <item>Obedience</item>
+        <item>One Voice</item>
+        <item>Oral Histories</item>
+        <item>Organization</item>
+        <item>Philanthropic</item>
+        <item>Pope</item>
+        <item>Professional</item>
+        <item>Religion</item>
+        <item>Revelation</item>
+        <item>Ritual</item>
+        <item>Rules</item>
+        <item>Saints</item>
+        <item>Schools</item>
+        <item>Scribe</item>
+        <item>Scripture</item>
+        <item>Singer</item>
+        <item>Status Quo</item>
+        <item>Structure</item>
+        <item>Student</item>
+        <item>Teacher</item>
+        <item>Tradition</item>
+        <item>Union</item>
+        <item>University</item>
+        <item>Weddings</item>
+        <item>Wisdom</item>
+    </string-array>
+    <string-array name="en_atu06_default_keywords">
+        <item>Adam And Eve</item>
+        <item>Balance</item>
+        <item>Blessing</item>
+        <item>Caring</item>
+        <item>Carnal Desire</item>
+        <item>Choices</item>
+        <item>Communication</item>
+        <item>Decisions</item>
+        <item>Destiny</item>
+        <item>Discrimination</item>
+        <item>Doctor</item>
+        <item>Duality</item>
+        <item>Eden</item>
+        <item>Fate</item>
+        <item>Healer</item>
+        <item>Love</item>
+        <item>Medicine</item>
+        <item>Nurse</item>
+        <item>Opposites</item>
+        <item>Partnership</item>
+        <item>Relationship</item>
+        <item>Romance</item>
+        <item>Union</item>
+    </string-array>
+    <string-array name="en_atu07_default_keywords">
+        <item>Achievement</item>
+        <item>Ambition</item>
+        <item>Armor</item>
+        <item>Balance</item>
+        <item>Battles</item>
+        <item>Between Two Worlds</item>
+        <item>Car Trips</item>
+        <item>Contradictions</item>
+        <item>Control</item>
+        <item>Directed Willpower</item>
+        <item>Direction</item>
+        <item>Drive</item>
+        <item>External Power</item>
+        <item>Force</item>
+        <item>Fortitude</item>
+        <item>Goals Obtained</item>
+        <item>Gravity</item>
+        <item>Guide</item>
+        <item>Inner Duality</item>
+        <item>Insight</item>
+        <item>Leader</item>
+        <item>Military</item>
+        <item>Movement</item>
+        <item>Perseverance</item>
+        <item>Prime</item>
+        <item>Progress</item>
+        <item>Protection</item>
+        <item>Short-Term Goals</item>
+        <item>Solo</item>
+        <item>Stamina</item>
+        <item>Success</item>
+        <item>Sun And Moon</item>
+        <item>The Physical World</item>
+        <item>Triumph</item>
+        <item>Tunnel Vision</item>
+        <item>Vehicle</item>
+        <item>Victory</item>
+        <item>Willpower</item>
+        <item>Winning</item>
+    </string-array>
+    <string-array name="en_atu08_default_keywords">
+        <item>Calm</item>
+        <item>Control</item>
+        <item>Controlling Wild Tendencies Or Emotions</item>
+        <item>Courage</item>
+        <item>Determination</item>
+        <item>Eliminating Doubt</item>
+        <item>Endure</item>
+        <item>Equal Relationship</item>
+        <item>Guts To Take Action</item>
+        <item>Inner Power</item>
+        <item>Maintenance</item>
+        <item>Management</item>
+        <item>Mind Over Matter</item>
+        <item>Patience</item>
+        <item>Purity And Wisdom</item>
+        <item>Self-Control</item>
+        <item>Strength</item>
+        <item>Taming</item>
+        <item>Love Instead Of Force</item>
+        <item>Waiting For The Right Moment</item>
+        <item>Willpower</item>
+    </string-array>
+    <string-array name="en_atu09_default_keywords">
+        <item>Travel At Night</item>
+        <item>Analytical</item>
+        <item>Astrophysicist</item>
+        <item>Deep</item>
+        <item>Humanitarian</item>
+        <item>Inner Guidance</item>
+        <item>Inner Wisdom</item>
+        <item>Insight</item>
+        <item>Inspiration</item>
+        <item>Introspection</item>
+        <item>Isolation</item>
+        <item>Loneliness</item>
+        <item>Master</item>
+        <item>Peace And Quiet</item>
+        <item>Perspective</item>
+        <item>Prophet</item>
+        <item>Quiet</item>
+        <item>Research</item>
+        <item>Retreat</item>
+        <item>Sage</item>
+        <item>Scientist</item>
+        <item>Seeker</item>
+        <item>Seeker Of Knowledge And Esoteric Knowledge</item>
+        <item>Self-Awareness</item>
+        <item>Single Person</item>
+        <item>Solitude</item>
+        <item>Spiritual Completion</item>
+        <item>Teacher Or Guru</item>
+        <item>Thoughtful</item>
+        <item>Wisdom</item>
+        <item>Wise Sage</item>
+        <item>Withdrawal</item>
+    </string-array>
+    <string-array name="en_atu10_default_keywords">
+        <item>A Turn Of Events</item>
+        <item>Begin Again</item>
+        <item>Call Of Destiny</item>
+        <item>Chance</item>
+        <item>Coincidence</item>
+        <item>Cycles</item>
+        <item>Cyclical Progression</item>
+        <item>Destiny</item>
+        <item>Diplomat</item>
+        <item>Fate</item>
+        <item>Fortunate</item>
+        <item>Fortune</item>
+        <item>Gambling</item>
+        <item>Good Fortune</item>
+        <item>Habits</item>
+        <item>Happenstance</item>
+        <item>Improvement</item>
+        <item>Inheritance</item>
+        <item>Karma</item>
+        <item>Lottery</item>
+        <item>Luck</item>
+        <item>Movement</item>
+        <item>New Beginnings</item>
+        <item>New Phases</item>
+        <item>Pages Yet To Be Written</item>
+        <item>Patterns</item>
+        <item>Peacemaker</item>
+        <item>Prophet</item>
+        <item>Shift</item>
+        <item>Success</item>
+        <item>The Odds Are In Your Favor</item>
+        <item>Universal Laws</item>
+        <item>Ups And Downs</item>
+        <item>Winning</item>
+    </string-array>
+    <string-array name="en_atu11_default_keywords">
+        <item>Balance</item>
+        <item>Cause And Effect</item>
+        <item>Consequences</item>
+        <item>Court</item>
+        <item>Deserving</item>
+        <item>Education</item>
+        <item>Fairness</item>
+        <item>Honesty</item>
+        <item>Integrity</item>
+        <item>Judges</item>
+        <item>Justice</item>
+        <item>Karma</item>
+        <item>Law</item>
+        <item>Lawyers</item>
+        <item>Marriage</item>
+        <item>Middle Path</item>
+        <item>Poise</item>
+        <item>Polarity</item>
+        <item>Right</item>
+        <item>Rule</item>
+        <item>Scales</item>
+        <item>Seeing Both Sides</item>
+        <item>Trials</item>
+        <item>Truth</item>
+        <item>Weighing Options</item>
+    </string-array>
+    <string-array name="en_atu12_default_keywords">
+        <item>Betrayal</item>
+        <item>Bliss</item>
+        <item>Contemplation</item>
+        <item>Delays</item>
+        <item>Faith</item>
+        <item>Fresh Perspective</item>
+        <item>Humanitarian Work</item>
+        <item>Illusion</item>
+        <item>Lack Of Dignity</item>
+        <item>Let Go</item>
+        <item>Letting Go</item>
+        <item>Martyr</item>
+        <item>Patience</item>
+        <item>Psychic Receptivity</item>
+        <item>Reflection</item>
+        <item>Reversal</item>
+        <item>Sacrifice</item>
+        <item>Sanctity</item>
+        <item>Soul’S Mission Of Understanding</item>
+        <item>Surrender</item>
+        <item>Suspension</item>
+        <item>The Higher Purposes</item>
+        <item>Waiting</item>
+        <item>Yielding</item>
+    </string-array>
+    <string-array name="en_atu13_default_keywords">
+        <item>Change</item>
+        <item>Ending</item>
+        <item>Moving To A New Phase</item>
+        <item>Physical Death</item>
+        <item>Realization Of Your Soul</item>
+        <item>Rebirth</item>
+        <item>Release</item>
+        <item>Severance</item>
+        <item>Soul Travel</item>
+        <item>Transformation</item>
+        <item>Transition</item>
+        <item>Transmutation</item>
+        <item>You Are More Than A Body</item>
+    </string-array>
+    <string-array name="en_atu14_default_keywords">
+        <item>Alchemy</item>
+        <item>Angels</item>
+        <item>Balance</item>
+        <item>Blending Opposites</item>
+        <item>Calm</item>
+        <item>Chemists</item>
+        <item>Diplomacy</item>
+        <item>Doctors</item>
+        <item>Educators</item>
+        <item>Guardian Angel</item>
+        <item>Harmony</item>
+        <item>Healers</item>
+        <item>Inner Strength</item>
+        <item>Karma</item>
+        <item>Middle Ground</item>
+        <item>Mixing</item>
+        <item>Moderating Your Temper</item>
+        <item>Moderation</item>
+        <item>Patience</item>
+        <item>Peace</item>
+        <item>Pharmacists</item>
+        <item>Recovery</item>
+        <item>Scientific Discoveries</item>
+        <item>Serenity</item>
+        <item>Solutions</item>
+        <item>Teachers</item>
+        <item>Tempering Emotions</item>
+        <item>Watering Down</item>
+    </string-array>
+    <string-array name="en_atu15_default_keywords">
+        <item>Addiction</item>
+        <item>Attachment</item>
+        <item>Blindness</item>
+        <item>Bondage</item>
+        <item>Darkness</item>
+        <item>Deception</item>
+        <item>Denial</item>
+        <item>Deviance</item>
+        <item>Devil</item>
+        <item>Excess</item>
+        <item>Fear</item>
+        <item>Hate</item>
+        <item>Ignorance</item>
+        <item>Impotence</item>
+        <item>Jealousy</item>
+        <item>Lust</item>
+        <item>Materialism</item>
+        <item>Negativity</item>
+        <item>Secrets</item>
+        <item>Self-Infliction</item>
+        <item>Slavery</item>
+        <item>Stuck</item>
+        <item>Temptation</item>
+        <item>Violence</item>
+        <item>Worldly Desire</item>
+    </string-array>
+    <string-array name="en_atu16_default_keywords">
+        <item>Adversaries</item>
+        <item>Blow</item>
+        <item>Building Construction</item>
+        <item>Chaos</item>
+        <item>Clearing Away</item>
+        <item>Death</item>
+        <item>Destruction</item>
+        <item>Disruption</item>
+        <item>Enlightenment</item>
+        <item>Force</item>
+        <item>Overthrow</item>
+        <item>Rebirth</item>
+        <item>Rebuilding</item>
+        <item>Revolution</item>
+        <item>Rising From The Ashes</item>
+        <item>Shattered Dreams</item>
+        <item>Shock</item>
+        <item>Sudden Change</item>
+        <item>Surprise</item>
+        <item>Tearing Down</item>
+        <item>Uncertainty</item>
+        <item>Unexpected Change</item>
+        <item>Unrealistic Dreams Shattered</item>
+        <item>Walls Falling Down</item>
+        <item>War</item>
+    </string-array>
+    <string-array name="en_atu17_default_keywords">
+        <item>Artistic Energies</item>
+        <item>Balance</item>
+        <item>Calm After The Storm</item>
+        <item>Clairvoyance</item>
+        <item>Clarity</item>
+        <item>Creativity</item>
+        <item>Dance</item>
+        <item>Destined Love</item>
+        <item>Destiny</item>
+        <item>Faith</item>
+        <item>Following</item>
+        <item>Good Health</item>
+        <item>Guidance</item>
+        <item>Healing</item>
+        <item>Health</item>
+        <item>Hope</item>
+        <item>Illumination</item>
+        <item>Intuition</item>
+        <item>Knowing</item>
+        <item>Light At The End Of The Tunnel</item>
+        <item>Metaphysical</item>
+        <item>Music</item>
+        <item>Optimism</item>
+        <item>Peace</item>
+        <item>Possibilities</item>
+        <item>Rejuvenation</item>
+        <item>Renewal</item>
+        <item>Seeking A Direction</item>
+        <item>Spiritual Development</item>
+        <item>Spiritual Guide</item>
+        <item>Spiritual Tranquility</item>
+        <item>Spirituality</item>
+        <item>Success</item>
+        <item>Tranquil</item>
+        <item>Vision</item>
+        <item>Vulnerability</item>
+        <item>Well Being</item>
+        <item>Wishes</item>
+    </string-array>
+    <string-array name="en_atu18_default_keywords">
+        <item>Advancing</item>
+        <item>Alchemical Processes</item>
+        <item>Artist</item>
+        <item>Body Consciousness</item>
+        <item>Changes</item>
+        <item>Creativity</item>
+        <item>Darkness</item>
+        <item>Deception</item>
+        <item>Difficulty</item>
+        <item>Dreams</item>
+        <item>Duality</item>
+        <item>Emotions</item>
+        <item>Fear</item>
+        <item>Half-Truths</item>
+        <item>Illusion</item>
+        <item>Imagination</item>
+        <item>Instinct</item>
+        <item>Intuition</item>
+        <item>Mediums</item>
+        <item>Musicians</item>
+        <item>Mystery</item>
+        <item>Physical World</item>
+        <item>Poets</item>
+        <item>Psychics</item>
+        <item>Reflection</item>
+        <item>Secrets</item>
+        <item>Sleep</item>
+        <item>Subconscious</item>
+        <item>Subtle</item>
+        <item>Sympathetic Nervous System</item>
+        <item>Unnecessary Fear</item>
+        <item>Waxing</item>
+    </string-array>
+    <string-array name="en_atu19_default_keywords">
+        <item>Birth</item>
+        <item>Clarity</item>
+        <item>Clear View</item>
+        <item>Contentment</item>
+        <item>Energy</item>
+        <item>Enthusiasm</item>
+        <item>Fruitful Marriage</item>
+        <item>Fulfillment</item>
+        <item>Growth</item>
+        <item>Happiness</item>
+        <item>Health</item>
+        <item>Inner Child</item>
+        <item>Joining Together To Form One</item>
+        <item>Joy</item>
+        <item>Light</item>
+        <item>Not Being Swayed</item>
+        <item>Optimism</item>
+        <item>Positivity</item>
+        <item>Power</item>
+        <item>Radiance</item>
+        <item>Success</item>
+        <item>Sunbathing</item>
+        <item>Sunshine</item>
+        <item>Vision</item>
+    </string-array>
+    <string-array name="en_atu20_default_keywords">
+        <item>A Calling</item>
+        <item>Announcement</item>
+        <item>Change</item>
+        <item>Change In Consciousness</item>
+        <item>Changes Happening To You</item>
+        <item>Decisions</item>
+        <item>Embracing Truth</item>
+        <item>Ending</item>
+        <item>Forgiveness</item>
+        <item>Healing From Past Hurt</item>
+        <item>Higher Calling</item>
+        <item>Invitation</item>
+        <item>Judgment</item>
+        <item>Karmic Connections</item>
+        <item>Karmic Work Fulfilled</item>
+        <item>Major Changes</item>
+        <item>Major Changes Leading To A More Liberated Point Of View</item>
+        <item>Moving Forward</item>
+        <item>New Life</item>
+        <item>Not From You</item>
+        <item>Oneness</item>
+        <item>Passage</item>
+        <item>Peace</item>
+        <item>Reawakening</item>
+        <item>Rebirth</item>
+        <item>Regeneration</item>
+        <item>Renewal</item>
+        <item>Resurrection</item>
+        <item>Revelation</item>
+        <item>Self-Realization</item>
+        <item>Shift</item>
+        <item>The Past</item>
+        <item>Transformation</item>
+        <item>Truth</item>
+    </string-array>
+    <string-array name="en_atu21_default_keywords">
+        <item>Achievements</item>
+        <item>Awards</item>
+        <item>Closing One Door</item>
+        <item>Closure</item>
+        <item>Coming Together</item>
+        <item>Completion</item>
+        <item>Endings</item>
+        <item>Environment</item>
+        <item>Foreign Destinations</item>
+        <item>Four Corners Of The Globe</item>
+        <item>Freedom</item>
+        <item>Graduation</item>
+        <item>Inner And Outer Harmony</item>
+        <item>Journey</item>
+        <item>Karmic Connections</item>
+        <item>Rebirth</item>
+        <item>Resolution</item>
+        <item>Soul Mates</item>
+        <item>Student To Teacher</item>
+        <item>Success</item>
+        <item>The World Is Your Oyster</item>
+        <item>Time</item>
+        <item>Travel</item>
+        <item>Trip Especially Overseas</item>
+        <item>Universe</item>
+        <item>Victory</item>
+    </string-array>
+
+    <string-array name="en_fire01_default_keywords">
+        <item>Beginning</item>
+        <item>Birth</item>
+        <item>Control</item>
+        <item>Creativity</item>
+        <item>Direction</item>
+        <item>Energy</item>
+        <item>Explosion</item>
+        <item>Idea</item>
+        <item>Offering</item>
+        <item>Power</item>
+        <item>Renewal</item>
+        <item>Start</item>
+        <item>Will</item>
+    </string-array>
+    <string-array name="en_fire02_default_keywords">
+        <item>Advantageous Position</item>
+        <item>Comparison</item>
+        <item>Control</item>
+        <item>Planning</item>
+        <item>Plans</item>
+        <item>Security</item>
+        <item>Strategy</item>
+        <item>Success</item>
+        <item>Travel</item>
+        <item>Vision</item>
+    </string-array>
+    <string-array name="en_fire03_default_keywords">
+        <item>Advantageous Position</item>
+        <item>Expansion</item>
+        <item>Going Ahead</item>
+        <item>Opportunity Coming</item>
+        <item>Setting Things In Motion</item>
+        <item>Ship Sailing In</item>
+        <item>Success</item>
+        <item>Support</item>
+        <item>Travel</item>
+        <item>Vision</item>
+    </string-array>
+    <string-array name="en_fire04_default_keywords">
+        <item>Celebration</item>
+        <item>Ceremony</item>
+        <item>Friendship</item>
+        <item>Happiness</item>
+        <item>Harmony</item>
+        <item>Home</item>
+        <item>Homecoming</item>
+        <item>Invitation</item>
+        <item>Mutual Benefit</item>
+        <item>Party </item>
+        <item>Victory</item>
+    </string-array>
+    <string-array name="en_fire05_default_keywords">
+        <item>Aggression</item>
+        <item>Argument</item>
+        <item>Assertiveness</item>
+        <item>Bullies</item>
+        <item>Change</item>
+        <item>Competition</item>
+        <item>Conflict</item>
+        <item>Confusion</item>
+        <item>Dog Eat Dog</item>
+        <item>Fight</item>
+        <item>Game</item>
+        <item>Opposition</item>
+        <item>Power Struggle</item>
+        <item>Re-Arrangement</item>
+        <item>Rivalry</item>
+    </string-array>
+    <string-array name="en_fire06_default_keywords">
+        <item>Achievement</item>
+        <item>Advancement</item>
+        <item>But Beware Of Pride</item>
+        <item>Finish Line</item>
+        <item>Leadership</item>
+        <item>Success</item>
+        <item>Support</item>
+        <item>Triumph</item>
+        <item>Victory</item>
+        <item>Win</item>
+    </string-array>
+    <string-array name="en_fire07_default_keywords">
+        <item>Assertive</item>
+        <item>Battle</item>
+        <item>Boundaries</item>
+        <item>Bullies</item>
+        <item>Challenge</item>
+        <item>Courage</item>
+        <item>Defense</item>
+        <item>Fighting Off Others</item>
+        <item>Overwhelm</item>
+        <item>Resistance</item>
+        <item>Stand</item>
+        <item>Standing Your Ground</item>
+        <item>Struggle</item>
+    </string-array>
+    <string-array name="en_fire08_default_keywords">
+        <item>Movement</item>
+        <item>News</item>
+        <item>New Movement</item>
+        <item>Speed</item>
+        <item>Swiftness</item>
+        <item>Travel</item>
+    </string-array>
+    <string-array name="en_fire09_default_keywords">
+        <item>Boundaries</item>
+        <item>Completion</item>
+        <item>Defense</item>
+        <item>Distrust</item>
+        <item>Holding Fast</item>
+        <item>Ignoring Other Opinions</item>
+        <item>Paranoia</item>
+        <item>Preparation</item>
+        <item>Protection</item>
+    </string-array>
+    <string-array name="en_fire10_default_keywords">
+        <item>Burden</item>
+        <item>Duty</item>
+        <item>Hard Work</item>
+        <item>Heaviness</item>
+        <item>Oppression</item>
+        <item>Overburden</item>
+        <item>Overload</item>
+        <item>Responsibilities</item>
+        <item>Weight</item>
+    </string-array>
+    <string-array name="en_fire11_default_keywords">
+        <item>A Spark</item>
+        <item>Adventure</item>
+        <item>Creative Seed</item>
+        <item>Education</item>
+        <item>Exciting News</item>
+        <item>Feisty Youth</item>
+        <item>Following A Calling</item>
+        <item>Journeying</item>
+        <item>Message</item>
+        <item>New Creative Energy</item>
+        <item>New Passion</item>
+        <item>Rebellious</item>
+        <item>Student</item>
+    </string-array>
+    <string-array name="en_fire12_default_keywords">
+        <item>Action</item>
+        <item>Activist</item>
+        <item>Doer</item>
+        <item>Enthusiasm</item>
+        <item>Fiery Passion</item>
+        <item>Fire</item>
+        <item>Lust</item>
+        <item>Motivation</item>
+        <item>Mover And Shaker</item>
+        <item>Phallic Energy</item>
+    </string-array>
+    <string-array name="en_fire13_default_keywords">
+        <item>Confidence Creative</item>
+        <item>Courage</item>
+        <item>Experience</item>
+        <item>Feminine Power</item>
+        <item>Fire</item>
+        <item>Passion</item>
+        <item>Power</item>
+        <item>Wisdom</item>
+    </string-array>
+    <string-array name="en_fire14_default_keywords">
+        <item>Bravado</item>
+        <item>Courage</item>
+        <item>Creativity</item>
+        <item>Dignity</item>
+        <item>Fiery</item>
+        <item>Heat</item>
+        <item>Honour</item>
+        <item>Leadership</item>
+        <item>Living To One’S Word</item>
+        <item>Mastery</item>
+        <item>Passion</item>
+        <item>Power</item>
+    </string-array>
+
+    <string-array name="en_water01_default_keywords">
+        <item>Abounding</item>
+        <item>Delight</item>
+        <item>Heart Opening</item>
+        <item>Joy</item>
+        <item>Marriage</item>
+        <item>New Emotional Beginning</item>
+        <item>New Love</item>
+        <item>New Relationship</item>
+        <item>Offer</item>
+        <item>Overflowing</item>
+        <item>Proposal</item>
+        <item>Rekindling</item>
+    </string-array>
+    <string-array name="en_water02_default_keywords">
+        <item>Engagement</item>
+        <item>Equality</item>
+        <item>Healing</item>
+        <item>Love</item>
+        <item>Marriage</item>
+        <item>Meeting</item>
+        <item>Meeting Of Hearts And Vision</item>
+        <item>Partnership</item>
+        <item>Relationship</item>
+        <item>Romance</item>
+    </string-array>
+    <string-array name="en_water03_default_keywords">
+        <item>Achievement</item>
+        <item>Bridal Showers</item>
+        <item>Baby Showers</item>
+        <item>Celebration</item>
+        <item>Friendships</item>
+        <item>Fun</item>
+        <item>Gathering</item>
+        <item>Joy</item>
+        <item>Party</item>
+        <item>Support</item>
+        <item>Support Of Friends</item>
+        <item>Weddings</item>
+    </string-array>
+    <string-array name="en_water04_default_keywords">
+        <item>Apathy</item>
+        <item>Being Stubborn</item>
+        <item>Boredom</item>
+        <item>Discontent</item>
+        <item>Meditation</item>
+        <item>Missing A Trick</item>
+        <item>Offering</item>
+        <item>Rejection</item>
+        <item>Withdrawal</item>
+    </string-array>
+    <string-array name="en_water05_default_keywords">
+        <item>Depression</item>
+        <item>Disappointment</item>
+        <item>Grieving</item>
+        <item>Hurt</item>
+        <item>Loss</item>
+        <item>Regret</item>
+        <item>Sorrow</item>
+    </string-array>
+    <string-array name="en_water06_default_keywords">
+        <item>Childhood</item>
+        <item>Childlike</item>
+        <item>Freely Given</item>
+        <item>Friendship</item>
+        <item>Gifts</item>
+        <item>Meeting</item>
+        <item>Nostalgia</item>
+        <item>Pleasure</item>
+        <item>Reunion</item>
+        <item>Romance</item>
+        <item>Security</item>
+        <item>The Past</item>
+    </string-array>
+    <string-array name="en_water07_default_keywords">
+        <item>Bling</item>
+        <item>Choices</item>
+        <item>Daydream</item>
+        <item>Fantasy</item>
+        <item>Getting Distracted</item>
+        <item>Hesitation</item>
+        <item>Illusion</item>
+        <item>Options</item>
+        <item>Temptation</item>
+        <item>Visions</item>
+    </string-array>
+    <string-array name="en_water08_default_keywords">
+        <item>Abandonment</item>
+        <item>Journey</item>
+        <item>Leaving</item>
+        <item>Moving Away From A Long Outworn Situation</item>
+        <item>Moving On</item>
+        <item>Quest</item>
+        <item>Retreat</item>
+        <item>Solitary</item>
+        <item>Travel</item>
+        <item>Withdrawal</item>
+    </string-array>
+    <string-array name="en_water09_default_keywords">
+        <item>Accomplishment</item>
+        <item>Comfort</item>
+        <item>Happiness</item>
+        <item>Indulgence</item>
+        <item>Plenty</item>
+        <item>Satisfaction</item>
+        <item>Security</item>
+        <item>Showing Off</item>
+        <item>Smugness</item>
+        <item>Wealth</item>
+        <item>Wishes Granted</item>
+    </string-array>
+    <string-array name="en_water10_default_keywords">
+        <item>Celebration</item>
+        <item>Completion</item>
+        <item>Contentment</item>
+        <item>Deserving</item>
+        <item>Family</item>
+        <item>Happiness</item>
+        <item>Harmony</item>
+        <item>Home</item>
+        <item>Reward</item>
+        <item>Security</item>
+        <item>Support</item>
+        <item>The Happy Ending</item>
+        <item>Unity</item>
+    </string-array>
+    <string-array name="en_water11_default_keywords">
+        <item>A Well-Loved Child</item>
+        <item>Creativity</item>
+        <item>Fresh Emotional Start</item>
+        <item>Infatuation</item>
+        <item>Love Message</item>
+        <item>Message From The Heart Or Intuition</item>
+        <item>New Love</item>
+        <item>Novelty</item>
+        <item>Surprise</item>
+    </string-array>
+    <string-array name="en_water12_default_keywords">
+        <item>Chivalry</item>
+        <item>Imagination</item>
+        <item>Leading With Heart</item>
+        <item>On A Mission</item>
+        <item>Prince Charming</item>
+        <item>Questing</item>
+        <item>Romance</item>
+        <item>Taking Action On Feelings</item>
+        <item>Vision</item>
+    </string-array>
+    <string-array name="en_water13_default_keywords">
+        <item>Caring</item>
+        <item>Contemplation</item>
+        <item>Deep Emotional Understanding</item>
+        <item>Emotional</item>
+        <item>Empathic</item>
+        <item>Feminine</item>
+        <item>Intuitive</item>
+        <item>Kind</item>
+        <item>Sensitive</item>
+    </string-array>
+    <string-array name="en_water14_default_keywords">
+        <item>Capacity For Giving</item>
+        <item>Compassion</item>
+        <item>Connection</item>
+        <item>Creativity</item>
+        <item>Generosity</item>
+        <item>Hidden Depths</item>
+        <item>Love</item>
+        <item>Mastery Of Emotions</item>
+        <item>Paternal</item>
+        <item>Wisdom</item>
+    </string-array>
+
+    <string-array name="en_air01_default_keywords">
+        <item>A-Ha Moments</item>
+        <item>Beginning Of Conflict</item>
+        <item>Black And White</item>
+        <item>Cutting</item>
+        <item>Decision</item>
+        <item>Ideas</item>
+        <item>Mental Breakthrough</item>
+        <item>New Mental Stimulation</item>
+        <item>New Thoughts</item>
+        <item>Surgery</item>
+        <item>Truth</item>
+        <item>Willpower</item>
+    </string-array>
+    <string-array name="en_air02_default_keywords">
+        <item>Avoidance</item>
+        <item>Balance</item>
+        <item>Blocked</item>
+        <item>Contemplation</item>
+        <item>Decisions</item>
+        <item>Denial</item>
+        <item>Holding Off</item>
+        <item>Solitude</item>
+        <item>Truce</item>
+        <item>Waiting</item>
+    </string-array>
+    <string-array name="en_air03_default_keywords">
+        <item>Depression</item>
+        <item>Disappointment</item>
+        <item>Divorce</item>
+        <item>Ending</item>
+        <item>Heart Trouble</item>
+        <item>Heartbreak</item>
+        <item>Hurt</item>
+        <item>Judgement</item>
+        <item>Loss</item>
+        <item>Pain</item>
+        <item>Separation</item>
+        <item>Sorrow</item>
+    </string-array>
+    <string-array name="en_air04_default_keywords">
+        <item>Contemplation</item>
+        <item>Healing</item>
+        <item>Meditation</item>
+        <item>Planning</item>
+        <item>Recovery</item>
+        <item>Recuperation</item>
+        <item>Removal</item>
+        <item>Respite</item>
+        <item>Rest</item>
+        <item>Retreat</item>
+        <item>Solitude</item>
+    </string-array>
+    <string-array name="en_air05_default_keywords">
+        <item>Conquest</item>
+        <item>Dishonesty</item>
+        <item>Hostility</item>
+        <item>Hurt</item>
+        <item>Putting Arguments Aside</item>
+        <item>Regrets</item>
+        <item>Severity</item>
+        <item>Theft</item>
+        <item>Victory</item>
+        <item>War</item>
+    </string-array>
+    <string-array name="en_air06_default_keywords">
+        <item>Assistance</item>
+        <item>Change</item>
+        <item>Journey</item>
+        <item>Movement</item>
+        <item>Moving On</item>
+        <item>Passage</item>
+        <item>Transition</item>
+        <item>Travel</item>
+    </string-array>
+    <string-array name="en_air07_default_keywords">
+        <item>Cunning</item>
+        <item>Dishonesty</item>
+        <item>Rip Off</item>
+        <item>Sneaking</item>
+        <item>Stealth</item>
+        <item>Theft</item>
+        <item>Treachery</item>
+        <item>Underhand Action</item>
+    </string-array>
+    <string-array name="en_air08_default_keywords">
+        <item>An Old Habit Of Thought</item>
+        <item>Bound</item>
+        <item>Holding Yourself Back</item>
+        <item>Isolation</item>
+        <item>Limitation</item>
+        <item>Restriction</item>
+        <item>Stuck</item>
+    </string-array>
+    <string-array name="en_air09_default_keywords">
+        <item>And Worries</item>
+        <item>Backstabbing</item>
+        <item>Depression</item>
+        <item>Grief</item>
+        <item>Illness</item>
+        <item>Not Thinking Through</item>
+        <item>Pain</item>
+        <item>Pity</item>
+        <item>Sleeplessness</item>
+        <item>Sorrow</item>
+        <item>Stress</item>
+        <item>Worry</item>
+    </string-array>
+    <string-array name="en_air10_default_keywords">
+        <item>Betrayal</item>
+        <item>Defeat</item>
+        <item>Ending</item>
+        <item>Everything Out In The Open</item>
+        <item>Failure</item>
+        <item>Finality</item>
+        <item>New Horizons</item>
+        <item>Pain</item>
+        <item>Pinning Something Down</item>
+        <item>Ruin</item>
+        <item>Treachery</item>
+        <item>Undoing</item>
+    </string-array>
+    <string-array name="en_air11_default_keywords">
+        <item>Defense</item>
+        <item>Legal</item>
+        <item>New Ideas</item>
+        <item>Sharp Thinking</item>
+        <item>Spirited And Willful Child</item>
+        <item>Spying The Land Before Action</item>
+        <item>Truth</item>
+        <item>Watch And Wait</item>
+    </string-array>
+    <string-array name="en_air12_default_keywords">
+        <item>Assertiveness</item>
+        <item>Bold Communication</item>
+        <item>Debate</item>
+        <item>Entering The Discussion</item>
+        <item>Haste</item>
+        <item>Mental Aggression</item>
+        <item>Mental Challenge</item>
+        <item>Pushing Forward</item>
+        <item>Rushing Ahead</item>
+        <item>Truth Teller</item>
+    </string-array>
+    <string-array name="en_air13_default_keywords">
+        <item>Calm But Swift Action</item>
+        <item>Clear Sight</item>
+        <item>Decisiveness</item>
+        <item>Intelligence</item>
+        <item>Logic</item>
+        <item>Self-Sufficient</item>
+        <item>Sharpness</item>
+        <item>Thought Leader</item>
+    </string-array>
+    <string-array name="en_air14_default_keywords">
+        <item>Applied To Fair Decisions</item>
+        <item>Clear Headed</item>
+        <item>Fairness</item>
+        <item>Intellectual</item>
+        <item>Logic</item>
+        <item>Mental Sharpness</item>
+        <item>Thought Leader</item>
+        <item>Truth</item>
+        <item>Wisdom Of Experience</item>
+    </string-array>
+
+    <string-array name="en_earth01_default_keywords">
+        <item>Investment</item>
+        <item>New Financial Opportunity</item>
+        <item>New Job</item>
+        <item>New Path</item>
+        <item>Raise</item>
+        <item>Seed</item>
+        <item>Wealth</item>
+        <item>Windfall</item>
+    </string-array>
+    <string-array name="en_earth02_default_keywords">
+        <item>Balance</item>
+        <item>Choice</item>
+        <item>Financial Decisions</item>
+        <item>Juggling</item>
+        <item>Options</item>
+        <item>Uncertainty</item>
+    </string-array>
+    <string-array name="en_earth03_default_keywords">
+        <item>Apprentice</item>
+        <item>Assessment</item>
+        <item>Building</item>
+        <item>Collaboration</item>
+        <item>Creating</item>
+        <item>Learning</item>
+        <item>New Skill</item>
+        <item>Plans</item>
+        <item>Skill</item>
+        <item>Teamwork</item>
+    </string-array>
+    <string-array name="en_earth04_default_keywords">
+        <item>Financial Acumen</item>
+        <item>Greed</item>
+        <item>Holding</item>
+        <item>Possessing</item>
+        <item>Possessiveness</item>
+        <item>Protection</item>
+        <item>Saving</item>
+        <item>Security</item>
+        <item>Stability</item>
+    </string-array>
+    <string-array name="en_earth05_default_keywords">
+        <item>Co-dependence</item>
+        <item>Desperation</item>
+        <item>Dispossession</item>
+        <item>Financial Anxiety</item>
+        <item>Hard Times</item>
+        <item>Holding Back Income</item>
+        <item>Homeless</item>
+        <item>Limping Along</item>
+        <item>Loss</item>
+        <item>Out In The Cold</item>
+        <item>Poverty</item>
+        <item>Poverty Consciousness</item>
+    </string-array>
+    <string-array name="en_earth06_default_keywords">
+        <item>Balance Between Work And Balance</item>
+        <item>Begging</item>
+        <item>Charity</item>
+        <item>Charity</item>
+        <item>Give And Take</item>
+        <item>Giving</item>
+        <item>Justice</item>
+        <item>Receiving</item>
+        <item>Sharing</item>
+    </string-array>
+    <string-array name="en_earth07_default_keywords">
+        <item>Assessment</item>
+        <item>Discipline</item>
+        <item>Effort</item>
+        <item>Growth</item>
+        <item>Hard Labor</item>
+        <item>Harvest</item>
+        <item>Pause</item>
+        <item>Review</item>
+        <item>Taking Stock</item>
+        <item>Waiting</item>
+    </string-array>
+    <string-array name="en_earth08_default_keywords">
+        <item>Work For Its Own Sake</item>
+        <item>Constant Labour</item>
+        <item>Skill</item>
+        <item>Apprentice</item>
+        <item>Skill</item>
+        <item>Hard Work</item>
+        <item>Productive</item>
+        <item>Workaholic</item>
+    </string-array>
+    <string-array name="en_earth09_default_keywords">
+        <item>Comfort</item>
+        <item>Gratitude</item>
+        <item>Leisure</item>
+        <item>Security</item>
+        <item>Things Being Good</item>
+        <item>Wealth</item>
+    </string-array>
+    <string-array name="en_earth10_default_keywords">
+        <item>Family</item>
+        <item>Financial Settlement</item>
+        <item>Legacy</item>
+        <item>Reunion</item>
+        <item>Security</item>
+        <item>Stability</item>
+        <item>Wealth</item>
+    </string-array>
+    <string-array name="en_earth11_default_keywords">
+        <item>Contemplating A New Project</item>
+        <item>Financial Opportunity</item>
+        <item>New Financial Seed</item>
+        <item>New Venture</item>
+        <item>News About Money</item>
+        <item>Planning</item>
+        <item>Student</item>
+    </string-array>
+    <string-array name="en_earth12_default_keywords">
+        <item>Consistency</item>
+        <item>Financial Focus</item>
+        <item>Grounded Effort</item>
+        <item>Methodical</item>
+        <item>Offering</item>
+        <item>Practical</item>
+        <item>Respect</item>
+        <item>Solid Work</item>
+        <item>Stable</item>
+        <item>Steady Action</item>
+        <item>Trust</item>
+    </string-array>
+    <string-array name="en_earth13_default_keywords">
+        <item>Dependable</item>
+        <item>Earth Mother</item>
+        <item>Earthy</item>
+        <item>Grounded</item>
+        <item>Holding</item>
+        <item>Nurturing</item>
+        <item>Practical</item>
+        <item>Rewarding</item>
+        <item>Secure</item>
+    </string-array>
+    <string-array name="en_earth14_default_keywords">
+        <item>Wealth</item>
+        <item>Secure</item>
+        <item>Riches</item>
+        <item>Reward</item>
+        <item>Practical</item>
+        <item>Father</item>
+        <item>Boss</item>
+        <item>Authority</item>
+    </string-array>
+
+    <string-array name="cn_main_page_icons">
+        <item>排阵</item>
+        <item>知识库</item>
+    </string-array>
+
+    <string-array name="cn_about">
+        <item>中This app is for keeping track of your readings and keyword frequency.</item>
+    </string-array>
+
+    <string-array name="cn_resource_page_icons">
+        <item>卡牌</item>
+        <item>卡阵</item>
+        <item>其他1</item>
+        <item>其他2</item>
+    </string-array>
+
+    <string-array name="cn_settings_page_icons">
+        <item>中Language</item>
+        <item>中Clear Data</item>
+    </string-array>
+
+    <string-array name="cn_spread_selection_titles">
+        <item>选阵</item>
+        <item>排阵</item>
+        <item>关键词解答</item>
+    </string-array>
+
+    <string-array name="cn_hints">
+        <item>你的问题</item>
+        <item>你的想法</item>
+        <item>新的注解</item>
+    </string-array>
+
+    <string-array name="cn_default_spread_names">
+        <item>单牌占卜</item>
+        <item>中Two Card Spread</item>
+        <item>三牌占卜</item>
+        <item>中Four Card Spread</item>
+        <item>中Four Card Grid</item>
+        <item>四向占卜</item>
+        <item>中Five Card Square</item>
+        <item>中Pentagram Spread</item>
+        <item>中Relationship Spread</item>
+        <item>四元素占卜</item>
+        <item>是与否占卜</item>
+        <item>中Choice Spread</item>
+        <item>中Horseshoe</item>
+        <item>中Seven Card Horseshoe</item>
+        <item>中Chakra Spread</item>
+        <item>中Event</item>
+        <item>中Timing</item>
+        <item>中Celtic Cross</item>
+        <item>中World Tree</item>
+        <item>生命之树占卜</item>
+        <item>中Resources</item>
+        <item>中Overview</item>
+        <item>中Manifestation-Causation</item>
+        <item>中Solution</item>
+        <item>中Astrology</item>
+        <item>中Year</item>
+        <item>中Fate Pattern</item>
+        <item>中Story Spread</item>
+        <item>中Three Card Pyramid</item>
+        <item>中Six Card Pyramid</item>
+        <item>中Tetraktys</item>
+        <item>中Romany</item>
+    </string-array>
+
+    <string-array name="cn_atu00_default_keywords">
+        <item>机会</item>
+        <item>童真</item>
+        <item>愚行</item>
+        <item>冒险</item>
+        <item>万物</item>
+        <item>周而复始</item>
+        <item>盲从</item>
+        <item>勇敢</item>
+        <item>明亮</item>
+        <item>没有负担</item>
+        <item>极端</item>
+        <item>无畏无惧</item>
+        <item>无忧无虑</item>
+        <item>愚痴</item>
+        <item>自由</item>
+        <item>重新出发</item>
+        <item>无法估量</item>
+        <item>天真</item>
+        <item>灵感</item>
+        <item>生命力</item>
+        <item>新的开始</item>
+        <item>新的循环</item>
+        <item>无物</item>
+        <item>无即是有,有既是无</item>
+        <item>创意</item>
+        <item>原能量</item>
+        <item>危机</item>
+        <item>万物有因</item>
+        <item>卷土重来</item>
+        <item>旅程</item>
+        <item>愚弄</item>
+        <item>双向受力</item>
+        <item>青春</item>
+    </string-array>
+    <string-array name="cn_atu01_default_keywords">
+        <item>中Acting Now</item>
+        <item>中Action</item>
+        <item>中Acute</item>
+        <item>中Adaptation</item>
+        <item>中Applied Knowledge</item>
+        <item>中Astute</item>
+        <item>中Central Point</item>
+        <item>中Communication</item>
+        <item>中Communication</item>
+        <item>中Concentration</item>
+        <item>中Control</item>
+        <item>中Craft</item>
+        <item>中Creator</item>
+        <item>中Cunning</item>
+        <item>中Deceit</item>
+        <item>中Divine Guidance</item>
+        <item>中Divine Light</item>
+        <item>中Dynamic</item>
+        <item>中Ego</item>
+        <item>中Energy</item>
+        <item>中Energy Of Now</item>
+        <item>中Focus</item>
+        <item>中Healer</item>
+        <item>中I</item>
+        <item>中Indecision</item>
+        <item>中Infinity</item>
+        <item>中Innovator</item>
+        <item>中Inventor</item>
+        <item>中Jack-Of-All-Trades</item>
+        <item>中Magic</item>
+        <item>中Magic</item>
+        <item>中Manifest</item>
+        <item>中Mastery</item>
+        <item>中Mental</item>
+        <item>中Messenger</item>
+        <item>中Mind</item>
+        <item>中Occultist</item>
+        <item>中Orator</item>
+        <item>中Outgoing</item>
+        <item>中Physician</item>
+        <item>中Power</item>
+        <item>中Psychic</item>
+        <item>中Raw Power</item>
+        <item>中Self</item>
+        <item>中Self-Consciousness</item>
+        <item>中Sharp Mental Energy</item>
+        <item>中Skill</item>
+        <item>中Speed</item>
+        <item>中Success</item>
+        <item>中Surgeon</item>
+        <item>中Talent</item>
+        <item>中Teacher And Student</item>
+        <item>中Tools</item>
+        <item>中Trickery</item>
+        <item>中Willpower</item>
+        <item>中Writing</item>
+    </string-array>
+    <string-array name="cn_atu02_default_keywords">
+        <item>远古知识</item>
+        <item>答案</item>
+        <item>相抵</item>
+        <item>魂体</item>
+        <item>平衡</item>
+        <item>双相型障碍</item>
+        <item>相互依赖</item>
+        <item>集体潜意识</item>
+        <item>聚合</item>
+        <item>顾问</item>
+        <item>循环</item>
+        <item>女儿</item>
+        <item>成长中的通灵能力</item>
+        <item>神圣的知识</item>
+        <item>神法</item>
+        <item>医生</item>
+        <item>梦境</item>
+        <item>双面性</item>
+        <item>中Male Female Dichotomy</item>
+        <item>中Feminine Wisdom</item>
+        <item>中Harmony</item>
+        <item>中Healer</item>
+        <item>中Hidden Knowledge</item>
+        <item>中High Counsel</item>
+        <item>中Holder Of Secrets</item>
+        <item>中Illusions</item>
+        <item>中Initiation</item>
+        <item>中Introspection</item>
+        <item>中Intuition</item>
+        <item>中Knowing</item>
+        <item>中Meditation</item>
+        <item>中Memories From Before</item>
+        <item>中Menstruation</item>
+        <item>中Moon And Stars</item>
+        <item>中Mother Goddess</item>
+        <item>中Mysterious</item>
+        <item>中Nurse</item>
+        <item>中Opposites</item>
+        <item>中Passivity</item>
+        <item>中Past Lives</item>
+        <item>中Polarity</item>
+        <item>中Psychic Ability</item>
+        <item>中Receptivity</item>
+        <item>中Repetition</item>
+        <item>中Secrecy</item>
+        <item>中Sensitive</item>
+        <item>中Sister</item>
+        <item>中Soul Plane</item>
+        <item>中Speaking Without Words</item>
+        <item>中Spirituality</item>
+        <item>中Stillness</item>
+        <item>中Subconscious</item>
+        <item>中Subordination</item>
+        <item>中Subtle Change</item>
+        <item>中Sympathetic</item>
+        <item>中Telepathy</item>
+        <item>中Temples</item>
+        <item>中The Dark Side Of The Moon</item>
+        <item>中The Inner World</item>
+        <item>中The Place Of Knowing</item>
+        <item>中The Subconscious</item>
+        <item>中Timelessness</item>
+        <item>中Universal Child</item>
+        <item>中Wisdom And Science</item>
+    </string-array>
+    <string-array name="cn_atu03_default_keywords">
+        <item>中Abundance</item>
+        <item>中Art</item>
+        <item>中Babies</item>
+        <item>中Beauty</item>
+        <item>中Birth</item>
+        <item>中Botanist</item>
+        <item>中Bountiful</item>
+        <item>中Caring</item>
+        <item>中Chaos</item>
+        <item>中Children</item>
+        <item>中Creativity</item>
+        <item>中Dance</item>
+        <item>中Devotion</item>
+        <item>中Domestic</item>
+        <item>中Environment</item>
+        <item>中Feminine Power</item>
+        <item>中Fertility</item>
+        <item>中Flowers</item>
+        <item>中Garden</item>
+        <item>中Gestation</item>
+        <item>中Green</item>
+        <item>中Growth</item>
+        <item>中Harvest</item>
+        <item>中Love</item>
+        <item>中Luxury</item>
+        <item>中Marriage</item>
+        <item>中Mother</item>
+        <item>中Motherhood</item>
+        <item>中Music</item>
+        <item>中Natural Growth</item>
+        <item>中Nurturing</item>
+        <item>中Passion</item>
+        <item>中Peace</item>
+        <item>中Pleasure</item>
+        <item>中Plentiful</item>
+        <item>中Pregnancy</item>
+        <item>中Receptivity</item>
+        <item>中Reuse And Recycle</item>
+        <item>中Selfishness</item>
+        <item>中Smothering</item>
+        <item>中The Home</item>
+        <item>中Unconditional Love</item>
+        <item>中Warm</item>
+        <item>中Wealth From The Land</item>
+    </string-array>
+    <string-array name="cn_atu04_default_keywords">
+        <item>中Ambition</item>
+        <item>中Anger</item>
+        <item>中Authority</item>
+        <item>中Autonomy</item>
+        <item>中Bodyguard</item>
+        <item>中Boss</item>
+        <item>中Builder</item>
+        <item>中Command</item>
+        <item>中Control</item>
+        <item>中Courage</item>
+        <item>中Courageous</item>
+        <item>中Dominance</item>
+        <item>中Energy</item>
+        <item>中Father</item>
+        <item>中Fatherhood</item>
+        <item>中Force</item>
+        <item>中Foundation</item>
+        <item>中Government</item>
+        <item>中Grandfather</item>
+        <item>中Hard Working</item>
+        <item>中Headstrong</item>
+        <item>中Idealistic</item>
+        <item>中Intellectual</item>
+        <item>中Justice</item>
+        <item>中King</item>
+        <item>中Knowledge</item>
+        <item>中Leadership</item>
+        <item>中Logic</item>
+        <item>中Magnetic</item>
+        <item>中Male</item>
+        <item>中Masculine</item>
+        <item>中Mathematician</item>
+        <item>中Measurement</item>
+        <item>中Methodical</item>
+        <item>中Meticulous</item>
+        <item>中Muscular System</item>
+        <item>中Older Male</item>
+        <item>中Order</item>
+        <item>中Organisation</item>
+        <item>中Ownership</item>
+        <item>中Paternal</item>
+        <item>中Philosopher</item>
+        <item>中Physical Plane</item>
+        <item>中Politician</item>
+        <item>中Power</item>
+        <item>中Powerful</item>
+        <item>中Rational Thought</item>
+        <item>中Reason</item>
+        <item>中Regulation</item>
+        <item>中Ruler</item>
+        <item>中Sight</item>
+        <item>中Solid</item>
+        <item>中Square</item>
+        <item>中Stable</item>
+        <item>中Strong</item>
+        <item>中Structure</item>
+        <item>中Supervision</item>
+        <item>中Systematic</item>
+        <item>中Wisdom</item>
+    </string-array>
+    <string-array name="cn_atu05_default_keywords">
+        <item>中Advice</item>
+        <item>中Ancient Knowledge</item>
+        <item>中Church</item>
+        <item>中Communion</item>
+        <item>中Community</item>
+        <item>中Conformity</item>
+        <item>中Counselor</item>
+        <item>中Disciple</item>
+        <item>中Doctrine</item>
+        <item>中Dogma</item>
+        <item>中Doing The “Right” Thing</item>
+        <item>中Everyone Else Is Doing It</item>
+        <item>中Formality</item>
+        <item>中Initiation</item>
+        <item>中Learning</item>
+        <item>中Loss Of The Individual</item>
+        <item>中Mentor</item>
+        <item>中Mentoring</item>
+        <item>中Obedience</item>
+        <item>中One Voice</item>
+        <item>中Oral Histories</item>
+        <item>中Organization</item>
+        <item>中Philanthropic</item>
+        <item>中Pope</item>
+        <item>中Professional</item>
+        <item>中Religion</item>
+        <item>中Revelation</item>
+        <item>中Ritual</item>
+        <item>中Rules</item>
+        <item>中Saints</item>
+        <item>中Schools</item>
+        <item>中Scribe</item>
+        <item>中Scripture</item>
+        <item>中Singer</item>
+        <item>中Status Quo</item>
+        <item>中Structure</item>
+        <item>中Student</item>
+        <item>中Teacher</item>
+        <item>中Tradition</item>
+        <item>中Union</item>
+        <item>中University</item>
+        <item>中Weddings</item>
+        <item>中Wisdom</item>
+    </string-array>
+    <string-array name="cn_atu06_default_keywords">
+        <item>中Adam And Eve</item>
+        <item>中Balance</item>
+        <item>中Blessing</item>
+        <item>中Caring</item>
+        <item>中Carnal Desire</item>
+        <item>中Choices</item>
+        <item>中Communication</item>
+        <item>中Decisions</item>
+        <item>中Destiny</item>
+        <item>中Discrimination</item>
+        <item>中Doctor</item>
+        <item>中Duality</item>
+        <item>中Eden</item>
+        <item>中Fate</item>
+        <item>中Healer</item>
+        <item>中Love</item>
+        <item>中Medicine</item>
+        <item>中Nurse</item>
+        <item>中Opposites</item>
+        <item>中Partnership</item>
+        <item>中Relationship</item>
+        <item>中Romance</item>
+        <item>中Union</item>
+    </string-array>
+    <string-array name="cn_atu07_default_keywords">
+        <item>中Achievement</item>
+        <item>中Ambition</item>
+        <item>中Armor</item>
+        <item>中Balance</item>
+        <item>中Battles</item>
+        <item>中Between Two Worlds</item>
+        <item>中Car Trips</item>
+        <item>中Contradictions</item>
+        <item>中Control</item>
+        <item>中Directed Willpower</item>
+        <item>中Direction</item>
+        <item>中Drive</item>
+        <item>中External Power</item>
+        <item>中Force</item>
+        <item>中Fortitude</item>
+        <item>中Goals Obtained</item>
+        <item>中Gravity</item>
+        <item>中Guide</item>
+        <item>中Inner Duality</item>
+        <item>中Insight</item>
+        <item>中Leader</item>
+        <item>中Military</item>
+        <item>中Movement</item>
+        <item>中Perseverance</item>
+        <item>中Prime</item>
+        <item>中Progress</item>
+        <item>中Protection</item>
+        <item>中Short-Term Goals</item>
+        <item>中Solo</item>
+        <item>中Stamina</item>
+        <item>中Success</item>
+        <item>中Sun And Moon</item>
+        <item>中The Physical World</item>
+        <item>中Triumph</item>
+        <item>中Tunnel Vision</item>
+        <item>中Vehicle</item>
+        <item>中Victory</item>
+        <item>中Willpower</item>
+        <item>中Winning</item>
+    </string-array>
+    <string-array name="cn_atu08_default_keywords">
+        <item>中Calm</item>
+        <item>中Control</item>
+        <item>中Controlling Wild Tendencies Or Emotions</item>
+        <item>中Courage</item>
+        <item>中Determination</item>
+        <item>中Eliminating Doubt</item>
+        <item>中Endure</item>
+        <item>中Equal Relationship</item>
+        <item>中Guts To Take Action</item>
+        <item>中Inner Power</item>
+        <item>中Maintenance</item>
+        <item>中Management</item>
+        <item>中Mind Over Matter</item>
+        <item>中Patience</item>
+        <item>中Purity And Wisdom</item>
+        <item>中Self-Control</item>
+        <item>中Strength</item>
+        <item>中Taming</item>
+        <item>中Love Instead Of Force</item>
+        <item>中Waiting For The Right Moment</item>
+        <item>中Willpower</item>
+    </string-array>
+    <string-array name="cn_atu09_default_keywords">
+        <item>中Travel At Night</item>
+        <item>中Analytical</item>
+        <item>中Astrophysicist</item>
+        <item>中Deep</item>
+        <item>中Humanitarian</item>
+        <item>中Inner Guidance</item>
+        <item>中Inner Wisdom</item>
+        <item>中Insight</item>
+        <item>中Inspiration</item>
+        <item>中Introspection</item>
+        <item>中Isolation</item>
+        <item>中Loneliness</item>
+        <item>中Master</item>
+        <item>中Peace And Quiet</item>
+        <item>中Perspective</item>
+        <item>中Prophet</item>
+        <item>中Quiet</item>
+        <item>中Research</item>
+        <item>中Retreat</item>
+        <item>中Sage</item>
+        <item>中Scientist</item>
+        <item>中Seeker</item>
+        <item>中Seeker Of Knowledge And Esoteric Knowledge</item>
+        <item>中Self-Awareness</item>
+        <item>中Single Person</item>
+        <item>中Solitude</item>
+        <item>中Spiritual Completion</item>
+        <item>中Teacher Or Guru</item>
+        <item>中Thoughtful</item>
+        <item>中Wisdom</item>
+        <item>中Wise Sage</item>
+        <item>中Withdrawal</item>
+    </string-array>
+    <string-array name="cn_atu10_default_keywords">
+        <item>中A Turn Of Events</item>
+        <item>中Begin Again</item>
+        <item>中Call Of Destiny</item>
+        <item>中Chance</item>
+        <item>中Coincidence</item>
+        <item>中Cycles</item>
+        <item>中Cyclical Progression</item>
+        <item>中Destiny</item>
+        <item>中Diplomat</item>
+        <item>中Fate</item>
+        <item>中Fortunate</item>
+        <item>中Fortune</item>
+        <item>中Gambling</item>
+        <item>中Good Fortune</item>
+        <item>中Habits</item>
+        <item>中Happenstance</item>
+        <item>中Improvement</item>
+        <item>中Inheritance</item>
+        <item>中Karma</item>
+        <item>中Lottery</item>
+        <item>中Luck</item>
+        <item>中Movement</item>
+        <item>中New Beginnings</item>
+        <item>中New Phases</item>
+        <item>中Pages Yet To Be Written</item>
+        <item>中Patterns</item>
+        <item>中Peacemaker</item>
+        <item>中Prophet</item>
+        <item>中Shift</item>
+        <item>中Success</item>
+        <item>中The Odds Are In Your Favor</item>
+        <item>中Universal Laws</item>
+        <item>中Ups And Downs</item>
+        <item>中Winning</item>
+    </string-array>
+    <string-array name="cn_atu11_default_keywords">
+        <item>中Balance</item>
+        <item>中Cause And Effect</item>
+        <item>中Consequences</item>
+        <item>中Court</item>
+        <item>中Deserving</item>
+        <item>中Education</item>
+        <item>中Fairness</item>
+        <item>中Honesty</item>
+        <item>中Integrity</item>
+        <item>中Judges</item>
+        <item>中Justice</item>
+        <item>中Karma</item>
+        <item>中Law</item>
+        <item>中Lawyers</item>
+        <item>中Marriage</item>
+        <item>中Middle Path</item>
+        <item>中Poise</item>
+        <item>中Polarity</item>
+        <item>中Right</item>
+        <item>中Rule</item>
+        <item>中Scales</item>
+        <item>中Seeing Both Sides</item>
+        <item>中Trials</item>
+        <item>中Truth</item>
+        <item>中Weighing Options</item>
+    </string-array>
+    <string-array name="cn_atu12_default_keywords">
+        <item>中Betrayal</item>
+        <item>中Bliss</item>
+        <item>中Contemplation</item>
+        <item>中Delays</item>
+        <item>中Faith</item>
+        <item>中Fresh Perspective</item>
+        <item>中Humanitarian Work</item>
+        <item>中Illusion</item>
+        <item>中Lack Of Dignity</item>
+        <item>中Let Go</item>
+        <item>中Letting Go</item>
+        <item>中Martyr</item>
+        <item>中Patience</item>
+        <item>中Psychic Receptivity</item>
+        <item>中Reflection</item>
+        <item>中Reversal</item>
+        <item>中Sacrifice</item>
+        <item>中Sanctity</item>
+        <item>中Soul’S Mission Of Understanding</item>
+        <item>中Surrender</item>
+        <item>中Suspension</item>
+        <item>中The Higher Purposes</item>
+        <item>中Waiting</item>
+        <item>中Yielding</item>
+    </string-array>
+    <string-array name="cn_atu13_default_keywords">
+        <item>中Change</item>
+        <item>中Ending</item>
+        <item>中Moving To A New Phase</item>
+        <item>中Physical Death</item>
+        <item>中Realization Of Your Soul</item>
+        <item>中Rebirth</item>
+        <item>中Release</item>
+        <item>中Severance</item>
+        <item>中Soul Travel</item>
+        <item>中Transformation</item>
+        <item>中Transition</item>
+        <item>中Transmutation</item>
+        <item>中You Are More Than A Body</item>
+    </string-array>
+    <string-array name="cn_atu14_default_keywords">
+        <item>中Alchemy</item>
+        <item>中Angels</item>
+        <item>中Balance</item>
+        <item>中Blending Opposites</item>
+        <item>中Calm</item>
+        <item>中Chemists</item>
+        <item>中Diplomacy</item>
+        <item>中Doctors</item>
+        <item>中Educators</item>
+        <item>中Guardian Angel</item>
+        <item>中Harmony</item>
+        <item>中Healers</item>
+        <item>中Inner Strength</item>
+        <item>中Karma</item>
+        <item>中Middle Ground</item>
+        <item>中Mixing</item>
+        <item>中Moderating Your Temper</item>
+        <item>中Moderation</item>
+        <item>中Patience</item>
+        <item>中Peace</item>
+        <item>中Pharmacists</item>
+        <item>中Recovery</item>
+        <item>中Scientific Discoveries</item>
+        <item>中Serenity</item>
+        <item>中Solutions</item>
+        <item>中Teachers</item>
+        <item>中Tempering Emotions</item>
+        <item>中Watering Down</item>
+    </string-array>
+    <string-array name="cn_atu15_default_keywords">
+        <item>中Addiction</item>
+        <item>中Attachment</item>
+        <item>中Blindness</item>
+        <item>中Bondage</item>
+        <item>中Darkness</item>
+        <item>中Deception</item>
+        <item>中Denial</item>
+        <item>中Deviance</item>
+        <item>中Devil</item>
+        <item>中Excess</item>
+        <item>中Fear</item>
+        <item>中Hate</item>
+        <item>中Ignorance</item>
+        <item>中Impotence</item>
+        <item>中Jealousy</item>
+        <item>中Lust</item>
+        <item>中Materialism</item>
+        <item>中Negativity</item>
+        <item>中Secrets</item>
+        <item>中Self-Infliction</item>
+        <item>中Slavery</item>
+        <item>中Stuck</item>
+        <item>中Temptation</item>
+        <item>中Violence</item>
+        <item>中Worldly Desire</item>
+    </string-array>
+    <string-array name="cn_atu16_default_keywords">
+        <item>中Adversaries</item>
+        <item>中Blow</item>
+        <item>中Building Construction</item>
+        <item>中Chaos</item>
+        <item>中Clearing Away</item>
+        <item>中Death</item>
+        <item>中Destruction</item>
+        <item>中Disruption</item>
+        <item>中Enlightenment</item>
+        <item>中Force</item>
+        <item>中Overthrow</item>
+        <item>中Rebirth</item>
+        <item>中Rebuilding</item>
+        <item>中Revolution</item>
+        <item>中Rising From The Ashes</item>
+        <item>中Shattered Dreams</item>
+        <item>中Shock</item>
+        <item>中Sudden Change</item>
+        <item>中Surprise</item>
+        <item>中Tearing Down</item>
+        <item>中Uncertainty</item>
+        <item>中Unexpected Change</item>
+        <item>中Unrealistic Dreams Shattered</item>
+        <item>中Walls Falling Down</item>
+        <item>中War</item>
+    </string-array>
+    <string-array name="cn_atu17_default_keywords">
+        <item>中Artistic Energies</item>
+        <item>中Balance</item>
+        <item>中Calm After The Storm</item>
+        <item>中Clairvoyance</item>
+        <item>中Clarity</item>
+        <item>中Creativity</item>
+        <item>中Dance</item>
+        <item>中Destined Love</item>
+        <item>中Destiny</item>
+        <item>中Faith</item>
+        <item>中Following</item>
+        <item>中Good Health</item>
+        <item>中Guidance</item>
+        <item>中Healing</item>
+        <item>中Health</item>
+        <item>中Hope</item>
+        <item>中Illumination</item>
+        <item>中Intuition</item>
+        <item>中Knowing</item>
+        <item>中Light At The End Of The Tunnel</item>
+        <item>中Metaphysical</item>
+        <item>中Music</item>
+        <item>中Optimism</item>
+        <item>中Peace</item>
+        <item>中Possibilities</item>
+        <item>中Rejuvenation</item>
+        <item>中Renewal</item>
+        <item>中Seeking A Direction</item>
+        <item>中Spiritual Development</item>
+        <item>中Spiritual Guide</item>
+        <item>中Spiritual Tranquility</item>
+        <item>中Spirituality</item>
+        <item>中Success</item>
+        <item>中Tranquil</item>
+        <item>中Vision</item>
+        <item>中Vulnerability</item>
+        <item>中Well Being</item>
+        <item>中Wishes</item>
+    </string-array>
+    <string-array name="cn_atu18_default_keywords">
+        <item>中Advancing</item>
+        <item>中Alchemical Processes</item>
+        <item>中Artist</item>
+        <item>中Body Consciousness</item>
+        <item>中Changes</item>
+        <item>中Creativity</item>
+        <item>中Darkness</item>
+        <item>中Deception</item>
+        <item>中Difficulty</item>
+        <item>中Dreams</item>
+        <item>中Duality</item>
+        <item>中Emotions</item>
+        <item>中Fear</item>
+        <item>中Half-Truths</item>
+        <item>中Illusion</item>
+        <item>中Imagination</item>
+        <item>中Instinct</item>
+        <item>中Intuition</item>
+        <item>中Mediums</item>
+        <item>中Musicians</item>
+        <item>中Mystery</item>
+        <item>中Physical World</item>
+        <item>中Poets</item>
+        <item>中Psychics</item>
+        <item>中Reflection</item>
+        <item>中Secrets</item>
+        <item>中Sleep</item>
+        <item>中Subconscious</item>
+        <item>中Subtle</item>
+        <item>中Sympathetic Nervous System</item>
+        <item>中Unnecessary Fear</item>
+        <item>中Waxing</item>
+    </string-array>
+    <string-array name="cn_atu19_default_keywords">
+        <item>中Birth</item>
+        <item>中Clarity</item>
+        <item>中Clear View</item>
+        <item>中Contentment</item>
+        <item>中Energy</item>
+        <item>中Enthusiasm</item>
+        <item>中Fruitful Marriage</item>
+        <item>中Fulfillment</item>
+        <item>中Growth</item>
+        <item>中Happiness</item>
+        <item>中Health</item>
+        <item>中Inner Child</item>
+        <item>中Joining Together To Form One</item>
+        <item>中Joy</item>
+        <item>中Light</item>
+        <item>中Not Being Swayed</item>
+        <item>中Optimism</item>
+        <item>中Positivity</item>
+        <item>中Power</item>
+        <item>中Radiance</item>
+        <item>中Success</item>
+        <item>中Sunbathing</item>
+        <item>中Sunshine</item>
+        <item>中Vision</item>
+    </string-array>
+    <string-array name="cn_atu20_default_keywords">
+        <item>中A Calling</item>
+        <item>中Announcement</item>
+        <item>中Change</item>
+        <item>中Change In Consciousness</item>
+        <item>中Changes Happening To You</item>
+        <item>中Decisions</item>
+        <item>中Embracing Truth</item>
+        <item>中Ending</item>
+        <item>中Forgiveness</item>
+        <item>中Healing From Past Hurt</item>
+        <item>中Higher Calling</item>
+        <item>中Invitation</item>
+        <item>中Judgment</item>
+        <item>中Karmic Connections</item>
+        <item>中Karmic Work Fulfilled</item>
+        <item>中Major Changes</item>
+        <item>中Major Changes Leading To A More Liberated Point Of View</item>
+        <item>中Moving Forward</item>
+        <item>中New Life</item>
+        <item>中Not From You</item>
+        <item>中Oneness</item>
+        <item>中Passage</item>
+        <item>中Peace</item>
+        <item>中Reawakening</item>
+        <item>中Rebirth</item>
+        <item>中Regeneration</item>
+        <item>中Renewal</item>
+        <item>中Resurrection</item>
+        <item>中Revelation</item>
+        <item>中Self-Realization</item>
+        <item>中Shift</item>
+        <item>中The Past</item>
+        <item>中Transformation</item>
+        <item>中Truth</item>
+    </string-array>
+    <string-array name="cn_atu21_default_keywords">
+        <item>中Achievements</item>
+        <item>中Awards</item>
+        <item>中Closing One Door</item>
+        <item>中Closure</item>
+        <item>中Coming Together</item>
+        <item>中Completion</item>
+        <item>中Endings</item>
+        <item>中Environment</item>
+        <item>中Foreign Destinations</item>
+        <item>中Four Corners Of The Globe</item>
+        <item>中Freedom</item>
+        <item>中Graduation</item>
+        <item>中Inner And Outer Harmony</item>
+        <item>中Journey</item>
+        <item>中Karmic Connections</item>
+        <item>中Rebirth</item>
+        <item>中Resolution</item>
+        <item>中Soul Mates</item>
+        <item>中Student To Teacher</item>
+        <item>中Success</item>
+        <item>中The World Is Your Oyster</item>
+        <item>中Time</item>
+        <item>中Travel</item>
+        <item>中Trip Especially Overseas</item>
+        <item>中Universe</item>
+        <item>中Victory</item>
+    </string-array>
+
+    <string-array name="cn_fire01_default_keywords">
+        <item>中Beginning</item>
+        <item>中Birth</item>
+        <item>中Control</item>
+        <item>中Creativity</item>
+        <item>中Direction</item>
+        <item>中Energy</item>
+        <item>中Explosion</item>
+        <item>中Idea</item>
+        <item>中Offering</item>
+        <item>中Power</item>
+        <item>中Renewal</item>
+        <item>中Start</item>
+        <item>中Will</item>
+    </string-array>
+    <string-array name="cn_fire02_default_keywords">
+        <item>中Advantageous Position</item>
+        <item>中Comparison</item>
+        <item>中Control</item>
+        <item>中Planning</item>
+        <item>中Plans</item>
+        <item>中Security</item>
+        <item>中Strategy</item>
+        <item>中Success</item>
+        <item>中Travel</item>
+        <item>中Vision</item>
+    </string-array>
+    <string-array name="cn_fire03_default_keywords">
+        <item>中Advantageous Position</item>
+        <item>中Expansion</item>
+        <item>中Going Ahead</item>
+        <item>中Opportunity Coming</item>
+        <item>中Setting Things In Motion</item>
+        <item>中Ship Sailing In</item>
+        <item>中Success</item>
+        <item>中Support</item>
+        <item>中Travel</item>
+        <item>中Vision</item>
+    </string-array>
+    <string-array name="cn_fire04_default_keywords">
+        <item>中Celebration</item>
+        <item>中Ceremony</item>
+        <item>中Friendship</item>
+        <item>中Happiness</item>
+        <item>中Harmony</item>
+        <item>中Home</item>
+        <item>中Homecoming</item>
+        <item>中Invitation</item>
+        <item>中Mutual Benefit</item>
+        <item>中Party </item>
+        <item>中Victory</item>
+    </string-array>
+    <string-array name="cn_fire05_default_keywords">
+        <item>中Aggression</item>
+        <item>中Argument</item>
+        <item>中Assertiveness</item>
+        <item>中Bullies</item>
+        <item>中Change</item>
+        <item>中Competition</item>
+        <item>中Conflict</item>
+        <item>中Confusion</item>
+        <item>中Dog Eat Dog</item>
+        <item>中Fight</item>
+        <item>中Game</item>
+        <item>中Opposition</item>
+        <item>中Power Struggle</item>
+        <item>中Re-Arrangement</item>
+        <item>中Rivalry</item>
+    </string-array>
+    <string-array name="cn_fire06_default_keywords">
+        <item>中Achievement</item>
+        <item>中Advancement</item>
+        <item>中But Beware Of Pride</item>
+        <item>中Finish Line</item>
+        <item>中Leadership</item>
+        <item>中Success</item>
+        <item>中Support</item>
+        <item>中Triumph</item>
+        <item>中Victory</item>
+        <item>中Win</item>
+    </string-array>
+    <string-array name="cn_fire07_default_keywords">
+        <item>中Assertive</item>
+        <item>中Battle</item>
+        <item>中Boundaries</item>
+        <item>中Bullies</item>
+        <item>中Challenge</item>
+        <item>中Courage</item>
+        <item>中Defense</item>
+        <item>中Fighting Off Others</item>
+        <item>中Overwhelm</item>
+        <item>中Resistance</item>
+        <item>中Stand</item>
+        <item>中Standing Your Ground</item>
+        <item>中Struggle</item>
+    </string-array>
+    <string-array name="cn_fire08_default_keywords">
+        <item>中Movement</item>
+        <item>中News</item>
+        <item>中New Movement</item>
+        <item>中Speed</item>
+        <item>中Swiftness</item>
+        <item>中Travel</item>
+    </string-array>
+    <string-array name="cn_fire09_default_keywords">
+        <item>中Boundaries</item>
+        <item>中Completion</item>
+        <item>中Defense</item>
+        <item>中Distrust</item>
+        <item>中Holding Fast</item>
+        <item>中Ignoring Other Opinions</item>
+        <item>中Paranoia</item>
+        <item>中Preparation</item>
+        <item>中Protection</item>
+    </string-array>
+    <string-array name="cn_fire10_default_keywords">
+        <item>中Burden</item>
+        <item>中Duty</item>
+        <item>中Hard Work</item>
+        <item>中Heaviness</item>
+        <item>中Oppression</item>
+        <item>中Overburden</item>
+        <item>中Overload</item>
+        <item>中Responsibilities</item>
+        <item>中Weight</item>
+    </string-array>
+    <string-array name="cn_fire11_default_keywords">
+        <item>中A Spark</item>
+        <item>中Adventure</item>
+        <item>中Creative Seed</item>
+        <item>中Education</item>
+        <item>中Exciting News</item>
+        <item>中Feisty Youth</item>
+        <item>中Following A Calling</item>
+        <item>中Journeying</item>
+        <item>中Message</item>
+        <item>中New Creative Energy</item>
+        <item>中New Passion</item>
+        <item>中Rebellious</item>
+        <item>中Student</item>
+    </string-array>
+    <string-array name="cn_fire12_default_keywords">
+        <item>中Action</item>
+        <item>中Activist</item>
+        <item>中Doer</item>
+        <item>中Enthusiasm</item>
+        <item>中Fiery Passion</item>
+        <item>中Fire</item>
+        <item>中Lust</item>
+        <item>中Motivation</item>
+        <item>中Mover And Shaker</item>
+        <item>中Phallic Energy</item>
+    </string-array>
+    <string-array name="cn_fire13_default_keywords">
+        <item>中Confidence Creative</item>
+        <item>中Courage</item>
+        <item>中Experience</item>
+        <item>中Feminine Power</item>
+        <item>中Fire</item>
+        <item>中Passion</item>
+        <item>中Power</item>
+        <item>中Wisdom</item>
+    </string-array>
+    <string-array name="cn_fire14_default_keywords">
+        <item>中Bravado</item>
+        <item>中Courage</item>
+        <item>中Creativity</item>
+        <item>中Dignity</item>
+        <item>中Fiery</item>
+        <item>中Heat</item>
+        <item>中Honour</item>
+        <item>中Leadership</item>
+        <item>中Living To One’S Word</item>
+        <item>中Mastery</item>
+        <item>中Passion</item>
+        <item>中Power</item>
+    </string-array>
+
+    <string-array name="cn_water01_default_keywords">
+        <item>中Abounding</item>
+        <item>中Delight</item>
+        <item>中Heart Opening</item>
+        <item>中Joy</item>
+        <item>中Marriage</item>
+        <item>中New Emotional Beginning</item>
+        <item>中New Love</item>
+        <item>中New Relationship</item>
+        <item>中Offer</item>
+        <item>中Overflowing</item>
+        <item>中Proposal</item>
+        <item>中Rekindling</item>
+    </string-array>
+    <string-array name="cn_water02_default_keywords">
+        <item>中Engagement</item>
+        <item>中Equality</item>
+        <item>中Healing</item>
+        <item>中Love</item>
+        <item>中Marriage</item>
+        <item>中Meeting</item>
+        <item>中Meeting Of Hearts And Vision</item>
+        <item>中Partnership</item>
+        <item>中Relationship</item>
+        <item>中Romance</item>
+    </string-array>
+    <string-array name="cn_water03_default_keywords">
+        <item>中Achievement</item>
+        <item>中Bridal Showers</item>
+        <item>中Baby Showers</item>
+        <item>中Celebration</item>
+        <item>中Friendships</item>
+        <item>中Fun</item>
+        <item>中Gathering</item>
+        <item>中Joy</item>
+        <item>中Party</item>
+        <item>中Support</item>
+        <item>中Support Of Friends</item>
+        <item>中Weddings</item>
+    </string-array>
+    <string-array name="cn_water04_default_keywords">
+        <item>中Apathy</item>
+        <item>中Being Stubborn</item>
+        <item>中Boredom</item>
+        <item>中Discontent</item>
+        <item>中Meditation</item>
+        <item>中Missing A Trick</item>
+        <item>中Offering</item>
+        <item>中Rejection</item>
+        <item>中Withdrawal</item>
+    </string-array>
+    <string-array name="cn_water05_default_keywords">
+        <item>中Depression</item>
+        <item>中Disappointment</item>
+        <item>中Grieving</item>
+        <item>中Hurt</item>
+        <item>中Loss</item>
+        <item>中Regret</item>
+        <item>中Sorrow</item>
+    </string-array>
+    <string-array name="cn_water06_default_keywords">
+        <item>中Childhood</item>
+        <item>中Childlike</item>
+        <item>中Freely Given</item>
+        <item>中Friendship</item>
+        <item>中Gifts</item>
+        <item>中Meeting</item>
+        <item>中Nostalgia</item>
+        <item>中Pleasure</item>
+        <item>中Reunion</item>
+        <item>中Romance</item>
+        <item>中Security</item>
+        <item>中The Past</item>
+    </string-array>
+    <string-array name="cn_water07_default_keywords">
+        <item>中Bling</item>
+        <item>中Choices</item>
+        <item>中Daydream</item>
+        <item>中Fantasy</item>
+        <item>中Getting Distracted</item>
+        <item>中Hesitation</item>
+        <item>中Illusion</item>
+        <item>中Options</item>
+        <item>中Temptation</item>
+        <item>中Visions</item>
+    </string-array>
+    <string-array name="cn_water08_default_keywords">
+        <item>中Abandonment</item>
+        <item>中Journey</item>
+        <item>中Leaving</item>
+        <item>中Moving Away From A Long Outworn Situation</item>
+        <item>中Moving On</item>
+        <item>中Quest</item>
+        <item>中Retreat</item>
+        <item>中Solitary</item>
+        <item>中Travel</item>
+        <item>中Withdrawal</item>
+    </string-array>
+    <string-array name="cn_water09_default_keywords">
+        <item>中Accomplishment</item>
+        <item>中Comfort</item>
+        <item>中Happiness</item>
+        <item>中Indulgence</item>
+        <item>中Plenty</item>
+        <item>中Satisfaction</item>
+        <item>中Security</item>
+        <item>中Showing Off</item>
+        <item>中Smugness</item>
+        <item>中Wealth</item>
+        <item>中Wishes Granted</item>
+    </string-array>
+    <string-array name="cn_water10_default_keywords">
+        <item>中Celebration</item>
+        <item>中Completion</item>
+        <item>中Contentment</item>
+        <item>中Deserving</item>
+        <item>中Family</item>
+        <item>中Happiness</item>
+        <item>中Harmony</item>
+        <item>中Home</item>
+        <item>中Reward</item>
+        <item>中Security</item>
+        <item>中Support</item>
+        <item>中The Happy Ending</item>
+        <item>中Unity</item>
+    </string-array>
+    <string-array name="cn_water11_default_keywords">
+        <item>中A Well-Loved Child</item>
+        <item>中Creativity</item>
+        <item>中Fresh Emotional Start</item>
+        <item>中Infatuation</item>
+        <item>中Love Message</item>
+        <item>中Message From The Heart Or Intuition</item>
+        <item>中New Love</item>
+        <item>中Novelty</item>
+        <item>中Surprise</item>
+    </string-array>
+    <string-array name="cn_water12_default_keywords">
+        <item>中Chivalry</item>
+        <item>中Imagination</item>
+        <item>中Leading With Heart</item>
+        <item>中On A Mission</item>
+        <item>中Prince Charming</item>
+        <item>中Questing</item>
+        <item>中Romance</item>
+        <item>中Taking Action On Feelings</item>
+        <item>中Vision</item>
+    </string-array>
+    <string-array name="cn_water13_default_keywords">
+        <item>中Caring</item>
+        <item>中Contemplation</item>
+        <item>中Deep Emotional Understanding</item>
+        <item>中Emotional</item>
+        <item>中Empathic</item>
+        <item>中Feminine</item>
+        <item>中Intuitive</item>
+        <item>中Kind</item>
+        <item>中Sensitive</item>
+    </string-array>
+    <string-array name="cn_water14_default_keywords">
+        <item>中Capacity For Giving</item>
+        <item>中Compassion</item>
+        <item>中Connection</item>
+        <item>中Creativity</item>
+        <item>中Generosity</item>
+        <item>中Hidden Depths</item>
+        <item>中Love</item>
+        <item>中Mastery Of Emotions</item>
+        <item>中Paternal</item>
+        <item>中Wisdom</item>
+    </string-array>
+
+    <string-array name="cn_air01_default_keywords">
+        <item>中A-Ha Moments</item>
+        <item>中Beginning Of Conflict</item>
+        <item>中Black And White</item>
+        <item>中Cutting</item>
+        <item>中Decision</item>
+        <item>中Ideas</item>
+        <item>中Mental Breakthrough</item>
+        <item>中New Mental Stimulation</item>
+        <item>中New Thoughts</item>
+        <item>中Surgery</item>
+        <item>中Truth</item>
+        <item>中Willpower</item>
+    </string-array>
+    <string-array name="cn_air02_default_keywords">
+        <item>中Avoidance</item>
+        <item>中Balance</item>
+        <item>中Blocked</item>
+        <item>中Contemplation</item>
+        <item>中Decisions</item>
+        <item>中Denial</item>
+        <item>中Holding Off</item>
+        <item>中Solitude</item>
+        <item>中Truce</item>
+        <item>中Waiting</item>
+    </string-array>
+    <string-array name="cn_air03_default_keywords">
+        <item>中Depression</item>
+        <item>中Disappointment</item>
+        <item>中Divorce</item>
+        <item>中Ending</item>
+        <item>中Heart Trouble</item>
+        <item>中Heartbreak</item>
+        <item>中Hurt</item>
+        <item>中Judgement</item>
+        <item>中Loss</item>
+        <item>中Pain</item>
+        <item>中Separation</item>
+        <item>中Sorrow</item>
+    </string-array>
+    <string-array name="cn_air04_default_keywords">
+        <item>中Contemplation</item>
+        <item>中Healing</item>
+        <item>中Meditation</item>
+        <item>中Planning</item>
+        <item>中Recovery</item>
+        <item>中Recuperation</item>
+        <item>中Removal</item>
+        <item>中Respite</item>
+        <item>中Rest</item>
+        <item>中Retreat</item>
+        <item>中Solitude</item>
+    </string-array>
+    <string-array name="cn_air05_default_keywords">
+        <item>中Conquest</item>
+        <item>中Dishonesty</item>
+        <item>中Hostility</item>
+        <item>中Hurt</item>
+        <item>中Putting Arguments Aside</item>
+        <item>中Regrets</item>
+        <item>中Severity</item>
+        <item>中Theft</item>
+        <item>中Victory</item>
+        <item>中War</item>
+    </string-array>
+    <string-array name="cn_air06_default_keywords">
+        <item>中Assistance</item>
+        <item>中Change</item>
+        <item>中Journey</item>
+        <item>中Movement</item>
+        <item>中Moving On</item>
+        <item>中Passage</item>
+        <item>中Transition</item>
+        <item>中Travel</item>
+    </string-array>
+    <string-array name="cn_air07_default_keywords">
+        <item>中Cunning</item>
+        <item>中Dishonesty</item>
+        <item>中Rip Off</item>
+        <item>中Sneaking</item>
+        <item>中Stealth</item>
+        <item>中Theft</item>
+        <item>中Treachery</item>
+        <item>中Underhand Action</item>
+    </string-array>
+    <string-array name="cn_air08_default_keywords">
+        <item>中An Old Habit Of Thought</item>
+        <item>中Bound</item>
+        <item>中Holding Yourself Back</item>
+        <item>中Isolation</item>
+        <item>中Limitation</item>
+        <item>中Restriction</item>
+        <item>中Stuck</item>
+    </string-array>
+    <string-array name="cn_air09_default_keywords">
+        <item>中And Worries</item>
+        <item>中Backstabbing</item>
+        <item>中Depression</item>
+        <item>中Grief</item>
+        <item>中Illness</item>
+        <item>中Not Thinking Through</item>
+        <item>中Pain</item>
+        <item>中Pity</item>
+        <item>中Sleeplessness</item>
+        <item>中Sorrow</item>
+        <item>中Stress</item>
+        <item>中Worry</item>
+    </string-array>
+    <string-array name="cn_air10_default_keywords">
+        <item>中Betrayal</item>
+        <item>中Defeat</item>
+        <item>中Ending</item>
+        <item>中Everything Out In The Open</item>
+        <item>中Failure</item>
+        <item>中Finality</item>
+        <item>中New Horizons</item>
+        <item>中Pain</item>
+        <item>中Pinning Something Down</item>
+        <item>中Ruin</item>
+        <item>中Treachery</item>
+        <item>中Undoing</item>
+    </string-array>
+    <string-array name="cn_air11_default_keywords">
+        <item>中Defense</item>
+        <item>中Legal</item>
+        <item>中New Ideas</item>
+        <item>中Sharp Thinking</item>
+        <item>中Spirited And Willful Child</item>
+        <item>中Spying The Land Before Action</item>
+        <item>中Truth</item>
+        <item>中Watch And Wait</item>
+    </string-array>
+    <string-array name="cn_air12_default_keywords">
+        <item>中Assertiveness</item>
+        <item>中Bold Communication</item>
+        <item>中Debate</item>
+        <item>中Entering The Discussion</item>
+        <item>中Haste</item>
+        <item>中Mental Aggression</item>
+        <item>中Mental Challenge</item>
+        <item>中Pushing Forward</item>
+        <item>中Rushing Ahead</item>
+        <item>中Truth Teller</item>
+    </string-array>
+    <string-array name="cn_air13_default_keywords">
+        <item>中Calm But Swift Action</item>
+        <item>中Clear Sight</item>
+        <item>中Decisiveness</item>
+        <item>中Intelligence</item>
+        <item>中Logic</item>
+        <item>中Self-Sufficient</item>
+        <item>中Sharpness</item>
+        <item>中Thought Leader</item>
+    </string-array>
+    <string-array name="cn_air14_default_keywords">
+        <item>中Applied To Fair Decisions</item>
+        <item>中Clear Headed</item>
+        <item>中Fairness</item>
+        <item>中Intellectual</item>
+        <item>中Logic</item>
+        <item>中Mental Sharpness</item>
+        <item>中Thought Leader</item>
+        <item>中Truth</item>
+        <item>中Wisdom Of Experience</item>
+    </string-array>
+
+    <string-array name="cn_earth01_default_keywords">
+        <item>中Investment</item>
+        <item>中New Financial Opportunity</item>
+        <item>中New Job</item>
+        <item>中New Path</item>
+        <item>中Raise</item>
+        <item>中Seed</item>
+        <item>中Wealth</item>
+        <item>中Windfall</item>
+    </string-array>
+    <string-array name="cn_earth02_default_keywords">
+        <item>中Balance</item>
+        <item>中Choice</item>
+        <item>中Financial Decisions</item>
+        <item>中Juggling</item>
+        <item>中Options</item>
+        <item>中Uncertainty</item>
+    </string-array>
+    <string-array name="cn_earth03_default_keywords">
+        <item>中Apprentice</item>
+        <item>中Assessment</item>
+        <item>中Building</item>
+        <item>中Collaboration</item>
+        <item>中Creating</item>
+        <item>中Learning</item>
+        <item>中New Skill</item>
+        <item>中Plans</item>
+        <item>中Skill</item>
+        <item>中Teamwork</item>
+    </string-array>
+    <string-array name="cn_earth04_default_keywords">
+        <item>中Financial Acumen</item>
+        <item>中Greed</item>
+        <item>中Holding</item>
+        <item>中Possessing</item>
+        <item>中Possessiveness</item>
+        <item>中Protection</item>
+        <item>中Saving</item>
+        <item>中Security</item>
+        <item>中Stability</item>
+    </string-array>
+    <string-array name="cn_earth05_default_keywords">
+        <item>中Codependence</item>
+        <item>中Desperation</item>
+        <item>中Dispossession</item>
+        <item>中Financial Anxiety</item>
+        <item>中Hard Times</item>
+        <item>中Holding Back Income</item>
+        <item>中Homeless</item>
+        <item>中Limping Along</item>
+        <item>中Loss</item>
+        <item>中Out In The Cold</item>
+        <item>中Poverty</item>
+        <item>中Poverty Consciousness</item>
+    </string-array>
+    <string-array name="cn_earth06_default_keywords">
+        <item>中Balance Betwenn Work And Balance</item>
+        <item>中Begging</item>
+        <item>中Charity</item>
+        <item>中Charity</item>
+        <item>中Give And Take</item>
+        <item>中Giving</item>
+        <item>中Justice</item>
+        <item>中Receiving</item>
+        <item>中Sharing</item>
+    </string-array>
+    <string-array name="cn_earth07_default_keywords">
+        <item>中Assessment</item>
+        <item>中Discipline</item>
+        <item>中Effort</item>
+        <item>中Growth</item>
+        <item>中Hard Labor</item>
+        <item>中Harvest</item>
+        <item>中Pause</item>
+        <item>中Review</item>
+        <item>中Taking Stock</item>
+        <item>中Waiting</item>
+    </string-array>
+    <string-array name="cn_earth08_default_keywords">
+        <item>中Work For Its Own Sake</item>
+        <item>中Constant Labour</item>
+        <item>中Skill</item>
+        <item>中Apprentice</item>
+        <item>中Skill</item>
+        <item>中Hard Work</item>
+        <item>中Productive</item>
+        <item>中Workaholic</item>
+    </string-array>
+    <string-array name="cn_earth09_default_keywords">
+        <item>中Comfort</item>
+        <item>中Gratitude</item>
+        <item>中Leisure</item>
+        <item>中Security</item>
+        <item>中Things Being Good</item>
+        <item>中Wealth</item>
+    </string-array>
+    <string-array name="cn_earth10_default_keywords">
+        <item>中Family</item>
+        <item>中Financial Settlement</item>
+        <item>中Legacy</item>
+        <item>中Reunion</item>
+        <item>中Security</item>
+        <item>中Stability</item>
+        <item>中Wealth</item>
+    </string-array>
+    <string-array name="cn_earth11_default_keywords">
+        <item>中Contemplating A New Project</item>
+        <item>中Financial Opportunity</item>
+        <item>中New Financial Seed</item>
+        <item>中New Venture</item>
+        <item>中News About Money</item>
+        <item>中Planning</item>
+        <item>中Student</item>
+    </string-array>
+    <string-array name="cn_earth12_default_keywords">
+        <item>中Consistency</item>
+        <item>中Financial Focus</item>
+        <item>中Grounded Effort</item>
+        <item>中Methodical</item>
+        <item>中Offering</item>
+        <item>中Practical</item>
+        <item>中Respect</item>
+        <item>中Solid Work</item>
+        <item>中Stable</item>
+        <item>中Steady Action</item>
+        <item>中Trust</item>
+    </string-array>
+    <string-array name="cn_earth13_default_keywords">
+        <item>中Dependable</item>
+        <item>中Earth Mother</item>
+        <item>中Earthy</item>
+        <item>中Grounded</item>
+        <item>中Holding</item>
+        <item>中Nurturing</item>
+        <item>中Practical</item>
+        <item>中Rewarding</item>
+        <item>中Secure</item>
+    </string-array>
+    <string-array name="cn_earth14_default_keywords">
+        <item>中Wealth</item>
+        <item>中Secure</item>
+        <item>中Riches</item>
+        <item>中Reward</item>
+        <item>中Practical</item>
+        <item>中Father</item>
+        <item>中Boss</item>
+        <item>中Authority</item>
+    </string-array>
+
+</resources>
