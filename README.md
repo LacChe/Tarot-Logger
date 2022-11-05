@@ -10,6 +10,8 @@ Image details and keyword frequency can be viewed in the Cards section.
 
 This is not an educational app, nor does it generate random cards. 
 
+Chinese translation is unfinished.
+
 <img src="https://github.com/LacChe/tarot-logger/blob/main/pics/1.jpg" width="240" />
 <img src="https://github.com/LacChe/tarot-logger/blob/main/pics/2.jpg" width="240" />
 <img src="https://github.com/LacChe/tarot-logger/blob/main/pics/3.jpg" width="240" />
