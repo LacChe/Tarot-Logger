@@ -1,4 +1,4 @@
-# tarot-logger
+# Tarot-Logger
 
 Use this app to keep track of your tarot readings. Images are of the Rider–Waite–Smith deck, included are numerous spreads. 
 
